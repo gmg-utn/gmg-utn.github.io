@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://gmg-utn.github.io/sitemap.xml
