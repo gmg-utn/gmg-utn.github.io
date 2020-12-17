@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GMG</title>
-    <link>https://gmg-utn.github.io/</link>
-      <atom:link href="https://gmg-utn.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://santiagomosca.github.io/</link>
+      <atom:link href="https://santiagomosca.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>GMG</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><copyright>© 2020 Grupo de Materiales Granulares</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://gmg-utn.github.io/images/icon_hu1999746619c4e7cb8d039d5ff408ba2e_18495_512x512_fill_lanczos_center_2.png</url>
+      <url>https://santiagomosca.github.io/images/icon_hu1999746619c4e7cb8d039d5ff408ba2e_18495_512x512_fill_lanczos_center_2.png</url>
       <title>GMG</title>
-      <link>https://gmg-utn.github.io/</link>
+      <link>https://santiagomosca.github.io/</link>
     </image>
     
     <item>
       <title>Evento de ejemplo</title>
-      <link>https://gmg-utn.github.io/talk/ejemplo/</link>
+      <link>https://santiagomosca.github.io/talk/ejemplo/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://gmg-utn.github.io/talk/ejemplo/</guid>
+      <guid>https://santiagomosca.github.io/talk/ejemplo/</guid>
       <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
@@ -29,17 +29,17 @@
     
     <item>
       <title>Sistema integral de gestión y mantenimieno vehicular</title>
-      <link>https://gmg-utn.github.io/talk/seminarios/2020/seminario-20-11-24/</link>
+      <link>https://santiagomosca.github.io/talk/seminarios/2020/seminario-20-11-24/</link>
       <pubDate>Tue, 24 Nov 2020 14:00:00 +0000</pubDate>
-      <guid>https://gmg-utn.github.io/talk/seminarios/2020/seminario-20-11-24/</guid>
+      <guid>https://santiagomosca.github.io/talk/seminarios/2020/seminario-20-11-24/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dash - Aplicaciones en el GMG</title>
-      <link>https://gmg-utn.github.io/talk/seminarios/2020/seminario-20-11-10/</link>
+      <link>https://santiagomosca.github.io/talk/seminarios/2020/seminario-20-11-10/</link>
       <pubDate>Tue, 10 Nov 2020 14:00:00 +0000</pubDate>
-      <guid>https://gmg-utn.github.io/talk/seminarios/2020/seminario-20-11-10/</guid>
+      <guid>https://santiagomosca.github.io/talk/seminarios/2020/seminario-20-11-10/</guid>
       <description>&lt;p&gt;Dash es un marco de trabajo de python que sirve para la construcción de aplicaciones de análisis de
 datos en un navegador web, se puede aplicar en las finanzas, para la creación de gráficas dinámicas
 del valor de acciones de una empresa, o en cualquier proyecto que requiera el análisis de una fuente
@@ -58,25 +58,25 @@ diferentes elementos visuales como gráficas, medidores de aguja y demás.&lt;/p
     
     <item>
       <title>Retratando transistores. Un breve recorrido por sus principios y limitaciones</title>
-      <link>https://gmg-utn.github.io/talk/seminarios/2020/seminario-20-10-27-2/</link>
+      <link>https://santiagomosca.github.io/talk/seminarios/2020/seminario-20-10-27-2/</link>
       <pubDate>Tue, 27 Oct 2020 14:30:00 +0000</pubDate>
-      <guid>https://gmg-utn.github.io/talk/seminarios/2020/seminario-20-10-27-2/</guid>
+      <guid>https://santiagomosca.github.io/talk/seminarios/2020/seminario-20-10-27-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>La Comunicación en la era tecnológica</title>
-      <link>https://gmg-utn.github.io/talk/seminarios/2020/seminario-20-10-27-1/</link>
+      <link>https://santiagomosca.github.io/talk/seminarios/2020/seminario-20-10-27-1/</link>
       <pubDate>Tue, 27 Oct 2020 14:00:00 +0000</pubDate>
-      <guid>https://gmg-utn.github.io/talk/seminarios/2020/seminario-20-10-27-1/</guid>
+      <guid>https://santiagomosca.github.io/talk/seminarios/2020/seminario-20-10-27-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Matías Fernández recibió su título de Doctor en Ingeniería, mención Materiales</title>
-      <link>https://gmg-utn.github.io/post/2020/20-10-16-titulo-mfernandez/</link>
+      <link>https://santiagomosca.github.io/post/2020/20-10-16_titulo-mfernandez/</link>
       <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://gmg-utn.github.io/post/2020/20-10-16-titulo-mfernandez/</guid>
+      <guid>https://santiagomosca.github.io/post/2020/20-10-16_titulo-mfernandez/</guid>
       <description>&lt;p&gt;La entrega se hizo según los protocolos dispuestos a causa de la pandemia de SARS-Cov-2.&lt;/p&gt;
 &lt;p&gt;Hoy el Dr. Ing. Matías Fernández recibió su título de Doctor en Ingeniería, mención Materiales. Había
 defendido su Tesis doctoral en noviembre de 2019.&lt;br&gt;&lt;/p&gt;
@@ -86,57 +86,57 @@ defendido su Tesis doctoral en noviembre de 2019.&lt;br&gt;&lt;/p&gt;
     
     <item>
       <title>El ímpetu de ayudar</title>
-      <link>https://gmg-utn.github.io/talk/seminarios/2020/seminario-20-10-13/</link>
+      <link>https://santiagomosca.github.io/talk/seminarios/2020/seminario-20-10-13/</link>
       <pubDate>Tue, 13 Oct 2020 14:00:00 +0000</pubDate>
-      <guid>https://gmg-utn.github.io/talk/seminarios/2020/seminario-20-10-13/</guid>
+      <guid>https://santiagomosca.github.io/talk/seminarios/2020/seminario-20-10-13/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Covid, aprendizaje y la educación universitaria en plena disrupción tecnológica</title>
-      <link>https://gmg-utn.github.io/talk/seminarios/2020/seminario-20-09-29/</link>
+      <link>https://santiagomosca.github.io/talk/seminarios/2020/seminario-20-09-29/</link>
       <pubDate>Tue, 29 Sep 2020 14:00:00 +0000</pubDate>
-      <guid>https://gmg-utn.github.io/talk/seminarios/2020/seminario-20-09-29/</guid>
+      <guid>https://santiagomosca.github.io/talk/seminarios/2020/seminario-20-09-29/</guid>
       <description></description>
     </item>
     
     <item>
       <title>El fascinante mundo de los materiales granulares: esa compleja simplicidad...</title>
-      <link>https://gmg-utn.github.io/talk/seminarios/2020/seminario-20-09-15/</link>
+      <link>https://santiagomosca.github.io/talk/seminarios/2020/seminario-20-09-15/</link>
       <pubDate>Tue, 15 Sep 2020 14:00:00 +0000</pubDate>
-      <guid>https://gmg-utn.github.io/talk/seminarios/2020/seminario-20-09-15/</guid>
+      <guid>https://santiagomosca.github.io/talk/seminarios/2020/seminario-20-09-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Semillas y propiedades dieléctricas en microondas. Potenciales aplicaciones en la agroindustria - Parte II</title>
-      <link>https://gmg-utn.github.io/talk/seminarios/2020/seminario-20-09-01/</link>
+      <link>https://santiagomosca.github.io/talk/seminarios/2020/seminario-20-09-01/</link>
       <pubDate>Tue, 01 Sep 2020 14:00:00 +0000</pubDate>
-      <guid>https://gmg-utn.github.io/talk/seminarios/2020/seminario-20-09-01/</guid>
+      <guid>https://santiagomosca.github.io/talk/seminarios/2020/seminario-20-09-01/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Semillas y propiedades dieléctricas en microondas. Potenciales aplicaciones en la agroindustria</title>
-      <link>https://gmg-utn.github.io/talk/seminarios/2020/seminario-20-08-18/</link>
+      <link>https://santiagomosca.github.io/talk/seminarios/2020/seminario-20-08-18/</link>
       <pubDate>Tue, 18 Aug 2020 14:00:00 +0000</pubDate>
-      <guid>https://gmg-utn.github.io/talk/seminarios/2020/seminario-20-08-18/</guid>
+      <guid>https://santiagomosca.github.io/talk/seminarios/2020/seminario-20-08-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>El uso de PIV en el transporte de agente de sostén durante la estimulación hidráulica</title>
-      <link>https://gmg-utn.github.io/talk/seminarios/2020/seminario-20-08-04/</link>
+      <link>https://santiagomosca.github.io/talk/seminarios/2020/seminario-20-08-04/</link>
       <pubDate>Tue, 04 Aug 2020 14:00:00 +0000</pubDate>
-      <guid>https://gmg-utn.github.io/talk/seminarios/2020/seminario-20-08-04/</guid>
+      <guid>https://santiagomosca.github.io/talk/seminarios/2020/seminario-20-08-04/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mauro Baldini defendió su Tesis Doctoral</title>
-      <link>https://gmg-utn.github.io/post/2020/20-07-01-defensa-tesis-baldini/</link>
+      <link>https://santiagomosca.github.io/post/2020/20-07-01_defensa-tesis-baldini/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://gmg-utn.github.io/post/2020/20-07-01-defensa-tesis-baldini/</guid>
+      <guid>https://santiagomosca.github.io/post/2020/20-07-01_defensa-tesis-baldini/</guid>
       <description>&lt;p&gt;El trabajo recibió elogio unánime del jurado.&lt;/p&gt;
 &lt;p&gt;En el día de hoy tenemos el agrado de felicitar al reciente Dr. Ing. Mauro Baldini, quien ha
 realizado la defensa de su tesis doctoral titulada &lt;em&gt;Simulación del transporte de agente de sostén
@@ -150,9 +150,9 @@ segundo Doctor formado íntegramente en el Departamento de la carrera.&lt;/p&gt;
     
     <item>
       <title>Título del proyecto 3: Byron</title>
-      <link>https://gmg-utn.github.io/project/pid-3/</link>
+      <link>https://santiagomosca.github.io/project/pid-3/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://gmg-utn.github.io/project/pid-3/</guid>
+      <guid>https://santiagomosca.github.io/project/pid-3/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Resumen del proyecto&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 </description>
@@ -160,9 +160,9 @@ segundo Doctor formado íntegramente en el Departamento de la carrera.&lt;/p&gt;
     
     <item>
       <title>Matías Fernández defendió su Tesis Doctoral</title>
-      <link>https://gmg-utn.github.io/post/2020/20-11-23-defensa-tesis-fernandez/</link>
+      <link>https://santiagomosca.github.io/post/2020/20-11-23_defensa-tesis-fernandez/</link>
       <pubDate>Sat, 23 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://gmg-utn.github.io/post/2020/20-11-23-defensa-tesis-fernandez/</guid>
+      <guid>https://santiagomosca.github.io/post/2020/20-11-23_defensa-tesis-fernandez/</guid>
       <description>&lt;p&gt;Obtuvo el grado de Doctor en Ingeniería, mención Materiales.&lt;/p&gt;
 &lt;p&gt;El flamante Dr. Ing. Fernández defendió su tesis titulada &lt;em&gt;Transporte y estabilidad de agente de
 sostén en fractura hidráulica para la estimulación de yacimientos de hidrocarburos no
@@ -176,26 +176,52 @@ UTN FRLP.&lt;/p&gt;
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>https://gmg-utn.github.io/publication/preprint/</link>
+      <link>https://santiagomosca.github.io/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://gmg-utn.github.io/publication/preprint/</guid>
+      <guid>https://santiagomosca.github.io/publication/preprint/</guid>
       <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Numerical simulation of proppant transport in a planar fracture. A study of perforation placement and injection strategy</title>
-      <link>https://gmg-utn.github.io/publication/baldini-2018/</link>
+      <link>https://santiagomosca.github.io/publication/baldini-2018/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://gmg-utn.github.io/publication/baldini-2018/</guid>
+      <guid>https://santiagomosca.github.io/publication/baldini-2018/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>8th International Conference on Micromechanics of Granular Media: Powders &amp; Grains</title>
+      <link>https://santiagomosca.github.io/post/2018/2018-02-21_8th_conference/</link>
+      <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://santiagomosca.github.io/post/2018/2018-02-21_8th_conference/</guid>
+      <description>&lt;p&gt;Participamos del 8vo Powders &amp;amp; Grains, el cual reune cada cuatro años a las figuras mas destacadas del área granular en distintas partes del mundo.&lt;/p&gt;
+&lt;p&gt;En esta oportunidad se realizó en Montpellier, Francia entre los dias 3 y 7 de Julio, y Luis
+Pugnaloni fue invitado para presentar un trabajo titulado &lt;strong&gt;A diferential equation for the flow
+rate during silo discharge: beyond the Beverloo rule&lt;/strong&gt;.&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;En el mismo se decidió que el próximo &lt;em&gt;P&amp;amp;G&lt;/em&gt; a llevarse a cabo en el año 2021 será organizado en
+Argentina, organizado por el GMG y en colaboración con un gran número de grupos del país, como
+así también de Chile, Brasil, México y Venezuela entre otros.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Participamos de la 102° Reunión Nacional de la AFA</title>
+      <link>https://santiagomosca.github.io/post/2018/2018-02-21_102-reunion-afa/</link>
+      <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://santiagomosca.github.io/post/2018/2018-02-21_102-reunion-afa/</guid>
+      <description>&lt;p&gt;Estuvimos en la 102° Reunión Nacional de la Asociación de Física Argentina, llevada a cabo en la ciudad de La Plata entre los días 26 y 29 de Septiembre del 2017.&lt;/p&gt;
+&lt;p&gt;Allí expusimos algunos de los resultados del grupo con una charla invitada a cargo de Luis
+Pugnaloni titulada &lt;strong&gt;Redes de fuerzas en empaquetamientos de discos y pentágonos sometidos a
+golpes: Agregados y correlaciones&lt;/strong&gt;, una presentación oral a cargo de Marcos Madrid titulada:
+&lt;strong&gt;Descargas de Silos con Muestras Bidispersas&lt;/strong&gt; y un póster defendido por Emiliano Recalt.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Título del proyecto 2: Yacyretá</title>
-      <link>https://gmg-utn.github.io/project/pid-2/</link>
+      <link>https://santiagomosca.github.io/project/pid-2/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://gmg-utn.github.io/project/pid-2/</guid>
+      <guid>https://santiagomosca.github.io/project/pid-2/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Resumen del proyecto&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 </description>
@@ -203,19 +229,32 @@ UTN FRLP.&lt;/p&gt;
     
     <item>
       <title>Título del proyecto 1: Battersea</title>
-      <link>https://gmg-utn.github.io/project/pid-1/</link>
+      <link>https://santiagomosca.github.io/project/pid-1/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://gmg-utn.github.io/project/pid-1/</guid>
+      <guid>https://santiagomosca.github.io/project/pid-1/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Resumen del proyecto&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 </description>
     </item>
     
     <item>
+      <title>Fuimos a la 100° Reunión Nacional de la AFA</title>
+      <link>https://santiagomosca.github.io/post/2015/2015-09-29_100-reunion-afa/</link>
+      <pubDate>Tue, 29 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://santiagomosca.github.io/post/2015/2015-09-29_100-reunion-afa/</guid>
+      <description>&lt;p&gt;Concurrimos a la 100° Reunión Nacional de la Asociación de Física Argentina que se llevó a cabo en
+la ciudad de Merlo, provincia de San Luis entre los días 22 y 25 de Septiembre del corriente año.&lt;/p&gt;
+&lt;p&gt;Allí expusimos algunos de los resultados del grupo con una presentación oral a cargo de Marcos
+Madrid titulada &lt;em&gt;Límites de la universalidad del caudal en flujos granulares&lt;/em&gt; y otra a cargo de
+Daniel Parisi con quien se realizó una extensa colaboración en el trabajo denominado &lt;em&gt;Faster is
+Slower&lt;/em&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>An example journal article</title>
-      <link>https://gmg-utn.github.io/publication/journal-article/</link>
+      <link>https://santiagomosca.github.io/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://gmg-utn.github.io/publication/journal-article/</guid>
+      <guid>https://santiagomosca.github.io/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -227,9 +266,9 @@ UTN FRLP.&lt;/p&gt;
     
     <item>
       <title>An example conference paper</title>
-      <link>https://gmg-utn.github.io/publication/conference-paper/</link>
+      <link>https://santiagomosca.github.io/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://gmg-utn.github.io/publication/conference-paper/</guid>
+      <guid>https://santiagomosca.github.io/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -240,26 +279,34 @@ UTN FRLP.&lt;/p&gt;
     </item>
     
     <item>
+      <title>El GMG en la 97° Reunión Nacional de la AFA</title>
+      <link>https://santiagomosca.github.io/post/2012/2012-11-12_97-reunion-afa/</link>
+      <pubDate>Mon, 12 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://santiagomosca.github.io/post/2012/2012-11-12_97-reunion-afa/</guid>
+      <description>&lt;p&gt;Miembros del GMG participaron de la 97 Reunión Nacional de Física de la Asociación Física Argentina presentando tres trabajos murales.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title></title>
-      <link>https://gmg-utn.github.io/about/</link>
+      <link>https://santiagomosca.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://gmg-utn.github.io/about/</guid>
+      <guid>https://santiagomosca.github.io/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://gmg-utn.github.io/contact/</link>
+      <link>https://santiagomosca.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://gmg-utn.github.io/contact/</guid>
+      <guid>https://santiagomosca.github.io/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://gmg-utn.github.io/people/</link>
+      <link>https://santiagomosca.github.io/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://gmg-utn.github.io/people/</guid>
+      <guid>https://santiagomosca.github.io/people/</guid>
       <description></description>
     </item>
     
