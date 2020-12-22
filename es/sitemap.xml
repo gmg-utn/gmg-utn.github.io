@@ -263,6 +263,26 @@
   </url>
   
   <url>
+    <loc>https://gmg-utn.github.io/post/2020/20-10-01_105-rafa/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gmg-utn.github.io/author/lucas-basiuk/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gmg-utn.github.io/en/author/lucas-basiuk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://gmg-utn.github.io/author/lucas-basiuk/"
+                />
+  </url>
+  
+  <url>
     <loc>https://gmg-utn.github.io/talk/seminarios/2020/seminario-20-09-29/</loc>
     <lastmod>2020-09-29T14:00:00+00:00</lastmod>
     <xhtml:link
@@ -274,21 +294,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://gmg-utn.github.io/talk/seminarios/2020/seminario-20-09-29/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://gmg-utn.github.io/author/lucas-basiuk/</loc>
-    <lastmod>2020-09-29T14:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gmg-utn.github.io/en/author/lucas-basiuk/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://gmg-utn.github.io/author/lucas-basiuk/"
                 />
   </url>
   
