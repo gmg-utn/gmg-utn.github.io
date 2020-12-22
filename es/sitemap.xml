@@ -263,7 +263,12 @@
   </url>
   
   <url>
-    <loc>https://gmg-utn.github.io/post/2020/20-10-01_105-rafa/</loc>
+    <loc>https://gmg-utn.github.io/tag/afa/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gmg-utn.github.io/post/2020/20-10-01_105-reunion-afa/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -855,6 +860,10 @@
                 hreflang="es"
                 href="https://gmg-utn.github.io/author/emiliano-recalt/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://gmg-utn.github.io/author/frederico-irou-roschzttardtz/</loc>
   </url>
   
 </urlset>
