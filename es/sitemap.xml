@@ -208,6 +208,21 @@
   </url>
   
   <url>
+    <loc>https://gmg-utn.github.io/author/marcos-madrid/</loc>
+    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gmg-utn.github.io/en/author/marcos-madrid/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://gmg-utn.github.io/author/marcos-madrid/"
+                />
+  </url>
+  
+  <url>
     <loc>https://gmg-utn.github.io/post/2020/2020-10-16_titulo-mfernandez/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url>
@@ -318,21 +333,6 @@
   </url>
   
   <url>
-    <loc>https://gmg-utn.github.io/author/marcos-madrid/</loc>
-    <lastmod>2020-09-15T14:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gmg-utn.github.io/en/author/marcos-madrid/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://gmg-utn.github.io/author/marcos-madrid/"
-                />
-  </url>
-  
-  <url>
     <loc>https://gmg-utn.github.io/author/ariel-meyra/</loc>
     <lastmod>2020-09-01T14:00:00+00:00</lastmod>
     <xhtml:link
@@ -418,6 +418,56 @@
   </url>
   
   <url>
+    <loc>https://gmg-utn.github.io/publication-type/4/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gmg-utn.github.io/author/grupo-de-materiales-granulares/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gmg-utn.github.io/publication/memoria-2019/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gmg-utn.github.io/tag/memoria-gmg/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gmg-utn.github.io/publication/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gmg-utn.github.io/en/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://gmg-utn.github.io/publication/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gmg-utn.github.io/publication_types/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gmg-utn.github.io/en/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://gmg-utn.github.io/publication_types/"
+                />
+  </url>
+  
+  <url>
     <loc>https://gmg-utn.github.io/tag/etiqueta-3/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -463,7 +513,7 @@
   </url>
   
   <url>
-    <loc>https://gmg-utn.github.io/post/2020/2020-11-23_defensa-tesis-fernandez/</loc>
+    <loc>https://gmg-utn.github.io/post/2019/2019-11-23_defensa-tesis-fernandez/</loc>
     <lastmod>2019-11-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -498,36 +548,6 @@
   </url>
   
   <url>
-    <loc>https://gmg-utn.github.io/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gmg-utn.github.io/en/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://gmg-utn.github.io/publication/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://gmg-utn.github.io/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gmg-utn.github.io/en/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://gmg-utn.github.io/publication_types/"
-                />
-  </url>
-  
-  <url>
     <loc>https://gmg-utn.github.io/author/santiago-mosca/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -555,6 +575,11 @@
                 hreflang="es"
                 href="https://gmg-utn.github.io/tag/source-themes/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://gmg-utn.github.io/publication/memoria-2018/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -678,12 +703,22 @@
   </url>
   
   <url>
+    <loc>https://gmg-utn.github.io/publication/memoria-2017/</loc>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gmg-utn.github.io/post/2018/2018-02-21_8th_conference/</loc>
     <lastmod>2018-02-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://gmg-utn.github.io/post/2018/2018-02-21_102-reunion-afa/</loc>
+    <lastmod>2018-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gmg-utn.github.io/tag/powders-grains/</loc>
     <lastmod>2018-02-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -710,6 +745,31 @@
                 hreflang="es"
                 href="https://gmg-utn.github.io/project/pid-2/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://gmg-utn.github.io/publication/memoria-2016/</loc>
+    <lastmod>2017-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gmg-utn.github.io/post/2016/2016-12-13_workshop-on-flow-of-granular-materials-and-stresses-under-different-solicitations/</loc>
+    <lastmod>2016-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gmg-utn.github.io/post/2016/2016-05-24_xiv-trefemac/</loc>
+    <lastmod>2016-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gmg-utn.github.io/post/2016/2016-05-24_southern-workshop-on-granular-materials/</loc>
+    <lastmod>2016-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gmg-utn.github.io/publication/memoria-2015/</loc>
+    <lastmod>2016-03-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -778,6 +838,11 @@
   </url>
   
   <url>
+    <loc>https://gmg-utn.github.io/publication/memoria-2014/</loc>
+    <lastmod>2015-04-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gmg-utn.github.io/post/2015/2015-03-03_juan-pablo-peralta-gana-concurso-ministerio-defensa/</loc>
     <lastmod>2015-03-03T00:00:00+00:00</lastmod>
   </url>
@@ -819,6 +884,11 @@
   
   <url>
     <loc>https://gmg-utn.github.io/post/2012/2012-11-28_defensa-tesis-martin-sanchez/</loc>
+    <lastmod>2012-11-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gmg-utn.github.io/tag/utn-frd/</loc>
     <lastmod>2012-11-28T00:00:00+00:00</lastmod>
   </url>
   
