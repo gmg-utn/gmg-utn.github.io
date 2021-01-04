@@ -473,6 +473,96 @@
   </url>
   
   <url>
+    <loc>https://gmg-utn.github.io/en/publication-type/4/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://gmg-utn.github.io/publication-type/4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gmg-utn.github.io/en/publication-type/4/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gmg-utn.github.io/en/author/grupo-de-materiales-granulares/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://gmg-utn.github.io/author/grupo-de-materiales-granulares/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gmg-utn.github.io/en/author/grupo-de-materiales-granulares/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gmg-utn.github.io/en/publication/memoria-2019/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://gmg-utn.github.io/publication/memoria-2019/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gmg-utn.github.io/en/publication/memoria-2019/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gmg-utn.github.io/en/tag/memoria-gmg/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://gmg-utn.github.io/tag/memoria-gmg/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gmg-utn.github.io/en/tag/memoria-gmg/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gmg-utn.github.io/en/publication_types/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://gmg-utn.github.io/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gmg-utn.github.io/en/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gmg-utn.github.io/en/publication/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://gmg-utn.github.io/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gmg-utn.github.io/en/publication/"
+                />
+  </url>
+  
+  <url>
     <loc>https://gmg-utn.github.io/en/project/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -518,82 +608,17 @@
   </url>
   
   <url>
-    <loc>https://gmg-utn.github.io/en/publication-type/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <loc>https://gmg-utn.github.io/en/publication/memoria-2018/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://gmg-utn.github.io/publication-type/3/"
+                href="https://gmg-utn.github.io/publication/memoria-2018/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gmg-utn.github.io/en/publication-type/3/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://gmg-utn.github.io/en/author/admin/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gmg-utn.github.io/en/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://gmg-utn.github.io/publication/preprint/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gmg-utn.github.io/en/publication/preprint/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://gmg-utn.github.io/en/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://gmg-utn.github.io/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gmg-utn.github.io/en/publication_types/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://gmg-utn.github.io/en/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://gmg-utn.github.io/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gmg-utn.github.io/en/publication/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://gmg-utn.github.io/en/tag/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://gmg-utn.github.io/tag/source-themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gmg-utn.github.io/en/tag/source-themes/"
+                href="https://gmg-utn.github.io/en/publication/memoria-2018/"
                 />
   </url>
   
@@ -730,6 +755,21 @@
   <url>
     <loc>https://gmg-utn.github.io/en/tag/proppant-transport/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gmg-utn.github.io/en/publication/memoria-2017/</loc>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://gmg-utn.github.io/publication/memoria-2017/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gmg-utn.github.io/en/publication/memoria-2017/"
+                />
   </url>
   
   <url>
@@ -878,6 +918,21 @@
   </url>
   
   <url>
+    <loc>https://gmg-utn.github.io/en/publication/memoria-2016/</loc>
+    <lastmod>2017-03-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://gmg-utn.github.io/publication/memoria-2016/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gmg-utn.github.io/en/publication/memoria-2016/"
+                />
+  </url>
+  
+  <url>
     <loc>https://gmg-utn.github.io/en/post/2016/2016-12-13_workshop-on-flow-of-granular-materials-and-stresses-under-different-solicitations/</loc>
     <lastmod>2016-12-13T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -919,6 +974,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://gmg-utn.github.io/en/post/2016/2016-05-24_southern-workshop-on-granular-materials/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gmg-utn.github.io/en/publication/memoria-2015/</loc>
+    <lastmod>2016-03-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://gmg-utn.github.io/publication/memoria-2015/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gmg-utn.github.io/en/publication/memoria-2015/"
                 />
   </url>
   
@@ -1003,26 +1073,6 @@
   </url>
   
   <url>
-    <loc>https://gmg-utn.github.io/en/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://gmg-utn.github.io/publication/journal-article/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gmg-utn.github.io/en/publication/journal-article/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://gmg-utn.github.io/en/author/robert-ford/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://gmg-utn.github.io/en/post/2015/2015-05-12_curso-termodinamica-fluidos-industria-petrolera/</loc>
     <lastmod>2015-05-12T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -1049,6 +1099,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://gmg-utn.github.io/en/post/2015/2015-05-11_xiii_trefemac/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gmg-utn.github.io/en/publication/memoria-2014/</loc>
+    <lastmod>2015-04-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://gmg-utn.github.io/publication/memoria-2014/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gmg-utn.github.io/en/publication/memoria-2014/"
                 />
   </url>
   
@@ -1154,36 +1219,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://gmg-utn.github.io/en/post/2013/2013-09-27_escuela-computacion-alto-rendimiento/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://gmg-utn.github.io/en/publication-type/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://gmg-utn.github.io/publication-type/1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gmg-utn.github.io/en/publication-type/1/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://gmg-utn.github.io/en/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://gmg-utn.github.io/publication/conference-paper/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gmg-utn.github.io/en/publication/conference-paper/"
                 />
   </url>
   
