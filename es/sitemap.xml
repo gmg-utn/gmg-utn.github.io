@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/authors/</loc>
-    <lastmod>2020-11-24T14:00:00+00:00</lastmod>
+    <lastmod>2020-12-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -14,6 +14,86 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://gmg-utn.github.io/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gmg-utn.github.io/</loc>
+    <lastmod>2020-12-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gmg-utn.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://gmg-utn.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gmg-utn.github.io/post/</loc>
+    <lastmod>2020-12-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gmg-utn.github.io/en/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://gmg-utn.github.io/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gmg-utn.github.io/post/2020/2020-12-17_revista-mecanica-tecnologica-vol2/</loc>
+    <lastmod>2020-12-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gmg-utn.github.io/author/santiago-mosca/</loc>
+    <lastmod>2020-12-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gmg-utn.github.io/en/author/santiago-mosca/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://gmg-utn.github.io/author/santiago-mosca/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gmg-utn.github.io/tags/</loc>
+    <lastmod>2020-12-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gmg-utn.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://gmg-utn.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gmg-utn.github.io/tag/utn-frlp/</loc>
+    <lastmod>2020-12-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gmg-utn.github.io/en/tag/utn-frlp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://gmg-utn.github.io/tag/utn-frlp/"
                 />
   </url>
   
@@ -29,21 +109,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://gmg-utn.github.io/talk/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://gmg-utn.github.io/</loc>
-    <lastmod>2020-11-24T14:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gmg-utn.github.io/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://gmg-utn.github.io/"
                 />
   </url>
   
@@ -89,21 +154,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://gmg-utn.github.io/talk/seminarios/2020/seminario-20-11-24/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://gmg-utn.github.io/tags/</loc>
-    <lastmod>2020-11-24T14:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gmg-utn.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://gmg-utn.github.io/tags/"
                 />
   </url>
   
@@ -239,36 +289,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://gmg-utn.github.io/post/2020/2020-10-16_titulo-mfernandez/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://gmg-utn.github.io/post/</loc>
-    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gmg-utn.github.io/en/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://gmg-utn.github.io/post/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://gmg-utn.github.io/tag/utn-frlp/</loc>
-    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gmg-utn.github.io/en/tag/utn-frlp/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://gmg-utn.github.io/tag/utn-frlp/"
                 />
   </url>
   
@@ -615,21 +635,6 @@
   <url>
     <loc>https://gmg-utn.github.io/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gmg-utn.github.io/author/santiago-mosca/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gmg-utn.github.io/en/author/santiago-mosca/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://gmg-utn.github.io/author/santiago-mosca/"
-                />
   </url>
   
   <url>
