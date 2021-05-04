@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Divulgación | GMG</title>
+    <link>https://gmg-utn.github.io/tag/divulgacion/</link>
+      <atom:link href="https://gmg-utn.github.io/tag/divulgacion/index.xml" rel="self" type="application/rss+xml" />
+    <description>Divulgación</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><copyright>© 2012-2021 Grupo de Materiales Granulares</copyright><lastBuildDate>Fri, 22 Feb 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gmg-utn.github.io/media/GMG-logo.png</url>
+      <title>Divulgación</title>
+      <link>https://gmg-utn.github.io/tag/divulgacion/</link>
+    </image>
+    
+    <item>
+      <title>CienciaNet gana concurso de divulgación de CONICET</title>
+      <link>https://gmg-utn.github.io/post/2013/2013-02-22_ciencianet-concurso-divulgacion-conicet/</link>
+      <pubDate>Fri, 22 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>https://gmg-utn.github.io/post/2013/2013-02-22_ciencianet-concurso-divulgacion-conicet/</guid>
+      <description>&lt;p&gt;El portal de noticias científicas de Argentina &lt;a href=&#34;http://ciencianet.com.ar/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CienciaNet&lt;/a&gt;
+recibió un subsidio de &lt;a href=&#34;http://www.conicet.gov.ar/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CONICET&lt;/a&gt; para continuar su labor de
+divulgación del quehacer de los científicos en Argentina.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
