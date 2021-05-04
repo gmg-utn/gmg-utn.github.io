@@ -5,12 +5,20 @@
     <link>https://gmg-utn.github.io/author/marcos-madrid/</link>
       <atom:link href="https://gmg-utn.github.io/author/marcos-madrid/index.xml" rel="self" type="application/rss+xml" />
     <description>Marcos Madrid</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><copyright>© 2021 Grupo de Materiales Granulares</copyright><lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><copyright>© 2012-2021 Grupo de Materiales Granulares</copyright><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://gmg-utn.github.io/images/icon_hu1999746619c4e7cb8d039d5ff408ba2e_18495_512x512_fill_lanczos_center_2.png</url>
+      <url>https://gmg-utn.github.io/media/GMG-logo.png</url>
       <title>Marcos Madrid</title>
       <link>https://gmg-utn.github.io/author/marcos-madrid/</link>
     </image>
+    
+    <item>
+      <title>Enhancement of the flow of vibrated grains through narrow apertures by addition of small particles</title>
+      <link>https://gmg-utn.github.io/publication/gmg-038/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://gmg-utn.github.io/publication/gmg-038/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Matías Fernández recibió su título de Doctor en Ingeniería, mención Materiales</title>
@@ -52,6 +60,14 @@ Ingeniería Mecánica de la UTN-FRLP con el apoyo de CONICET y la empresa Y-TEC 
     </item>
     
     <item>
+      <title>Differential equation for the flow rate of discharging silos based on energy balance</title>
+      <link>https://gmg-utn.github.io/publication/gmg-032/</link>
+      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://gmg-utn.github.io/publication/gmg-032/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Título del proyecto 3: Byron</title>
       <link>https://gmg-utn.github.io/project/pid-3/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -59,6 +75,14 @@ Ingeniería Mecánica de la UTN-FRLP con el apoyo de CONICET y la empresa Y-TEC 
       <description>&lt;p&gt;&lt;strong&gt;Resumen del proyecto&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Velocity profiles in forced silo discharges</title>
+      <link>https://gmg-utn.github.io/publication/gmg-010/</link>
+      <pubDate>Tue, 23 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://gmg-utn.github.io/publication/gmg-010/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -78,6 +102,14 @@ a cabo en el anfiteatro del Departamento de Ing. Química de UTN FRLP.&lt;br&gt;
 UTN FRLP.&lt;/p&gt;
 &lt;p&gt;Felicitamos a su Director, Luis Pugnaloni, y Codirector, Martín Sánchez.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Fuente&lt;/strong&gt;: &lt;a href=&#34;https://www.instagram.com/p/BqiD-v5hIje/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Consejeros de Mecánica&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Forced flow of granular media: Breakdown of the Beverloo scaling</title>
+      <link>https://gmg-utn.github.io/publication/gmg-027/</link>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://gmg-utn.github.io/publication/gmg-027/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -108,6 +140,14 @@ Pugnaloni titulada &lt;strong&gt;Redes de fuerzas en empaquetamientos de discos 
 golpes: Agregados y correlaciones&lt;/strong&gt;, una presentación oral a cargo de Marcos Madrid titulada:
 &lt;strong&gt;Descargas de Silos con Muestras Bidispersas&lt;/strong&gt; y un póster defendido por
 &lt;a href=&#34;https://gmg-utn.github.io/author/emiliano-recalt&#34;&gt;Emiliano Recalt&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>A differential equation for the flow rate during silo discharge: Beyond the Beverloo rule</title>
+      <link>https://gmg-utn.github.io/publication/gmg-031/</link>
+      <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://gmg-utn.github.io/publication/gmg-031/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -173,6 +213,31 @@ por los departamentos de física de la Universidad de Chile y la Pontífica Univ
 Católica de Valparaíso en Santiago de Chile. Presentamos dos comunicaciones orales y dos
 pósters. Juan Pablo Cagnola tomó el curso &amp;ldquo;Hands-on School&amp;rdquo; llevado a cabo los días 26 y
 27 de noviembre en el mismo centro.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Flujo y transporte de material granular en sistemas de interés tecnológico</title>
+      <link>https://gmg-utn.github.io/project/pid-1/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://gmg-utn.github.io/project/pid-1/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Resumen del proyecto&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Los materiales granulares constituyen uno de los principales insumos y productos de
+procesos tecnológicos en diversas industrias tales como la minera, alimenticia,
+farmacéutica, cosmética, energética, etc. Su manipulación, almacenamiento y transporte
+resultan claves en la optimización de tales procesos, por lo que un detallado conocimiento
+de estos procedimientos en una gran variedad de situaciones resulta de enorme interés. En
+este proyecto estudiaremos el flujo y transporte de material granular en diversos sistemas
+de interés tecnológico (descargas de silos en dos y tres dimensiones, transporte de
+material granular mediante líquidos en geometrías raras, etc.), utilizando para ello
+abordajes experimentales y computacionales. En particular se dispondrá del equipamiento
+disponible en Grupo de Materiales Granulares (GMG) tales como silos 2D y 3D, máquina
+simuladora de fractura, y el clúster de cálculo. Por otra parte, el presente proyecto
+pretende consolidar un equipo de trabajo con la capacidad operativa suficiente como para
+brindar asesoramiento a empresas y organismos que demanden estudios sobre problemas
+relacionados con los materiales granulares. En este sentido se dará especial importancia a
+la formación de recursos humanos en instancias de grado y posgrado, así como también a la
+formación de investigadores jóvenes.&lt;/p&gt;
+</description>
     </item>
     
     <item>

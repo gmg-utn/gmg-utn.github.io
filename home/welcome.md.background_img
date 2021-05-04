@@ -1,0 +1,36 @@
+---
+# An instance of the Blank widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: blank
+
+# Activate this widget? true/false
+active: true
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 10
+
+title: Grupo de Materiales Granulares
+subtitle:
+
+design:
+  columns: "1"
+  background:
+    image: soviet_poster.jpg
+    image_darken: 0.85
+    image_parallax: true
+    image_position: center # tiene sentido si se usa para 'size' la opción 'contain'
+    image_size: cover
+    #color: "lightblue"
+    text_color_light: true
+  spacing:
+    padding: ["20px", "0", "20px", "0"]
+advanced:
+  css_class: fullscreen
+---
+
+El Grupo de Materiales Granulares hace tareas de investigación básica y 
+aplicada, docencia y formación de recursos humanos, y vinculación con el medio 
+productivo, desde su creación en mayo de 2012.

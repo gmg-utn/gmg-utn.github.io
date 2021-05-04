@@ -5,9 +5,9 @@
     <link>https://gmg-utn.github.io/en/author/ramiro-irastorza/</link>
       <atom:link href="https://gmg-utn.github.io/en/author/ramiro-irastorza/index.xml" rel="self" type="application/rss+xml" />
     <description>Ramiro Irastorza</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Grupo de Materiales Granulares</copyright><lastBuildDate>Tue, 18 Aug 2020 14:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2012-2021 Grupo de Materiales Granulares</copyright><lastBuildDate>Tue, 18 Aug 2020 14:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://gmg-utn.github.io/images/icon_hu1999746619c4e7cb8d039d5ff408ba2e_18495_512x512_fill_lanczos_center_2.png</url>
+      <url>https://gmg-utn.github.io/images/logo_hu4fceeffe4103a8b22c4b8d73368b081a_9929_300x300_fit_lanczos_2.png</url>
       <title>Ramiro Irastorza</title>
       <link>https://gmg-utn.github.io/en/author/ramiro-irastorza/</link>
     </image>
@@ -28,6 +28,14 @@
       <description>&lt;p&gt;&lt;strong&gt;Project summary&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Exact predictions from the Edwards ensemble versus realistic simulations of tapped narrow two-dimensional granular columns</title>
+      <link>https://gmg-utn.github.io/en/publication/gmg-008/</link>
+      <pubDate>Fri, 20 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>https://gmg-utn.github.io/en/publication/gmg-008/</guid>
+      <description></description>
     </item>
     
   </channel>
