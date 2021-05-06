@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/publication-type/2/</loc>
-    <lastmod>2021-05-03T19:23:10-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:09-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -19,7 +19,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/authors/</loc>
-    <lastmod>2021-05-03T19:23:10-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:09-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -33,23 +33,23 @@
   </url>
   
   <url>
-    <loc>https://gmg-utn.github.io/en/publication/gmg-038/</loc>
-    <lastmod>2021-05-03T19:23:10-03:00</lastmod>
+    <loc>https://gmg-utn.github.io/en/author/federico-gaspar-vega/</loc>
+    <lastmod>2021-05-06T14:48:06-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://gmg-utn.github.io/publication/gmg-038/"
+                href="https://gmg-utn.github.io/author/federico-gaspar-vega/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gmg-utn.github.io/en/publication/gmg-038/"
+                href="https://gmg-utn.github.io/en/author/federico-gaspar-vega/"
                 />
   </url>
   
   <url>
     <loc>https://gmg-utn.github.io/en/</loc>
-    <lastmod>2021-05-03T19:23:10-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:09-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -64,7 +64,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/author/luis-pugnaloni/</loc>
-    <lastmod>2021-05-03T19:23:10-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:09-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -79,7 +79,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/author/manuel-carlevaro/</loc>
-    <lastmod>2021-05-03T19:23:10-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:09-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -93,38 +93,23 @@
   </url>
   
   <url>
-    <loc>https://gmg-utn.github.io/en/author/marcelo-kuperman/</loc>
-    <lastmod>2021-05-03T19:23:10-03:00</lastmod>
+    <loc>https://gmg-utn.github.io/en/author/martin-sanchez/</loc>
+    <lastmod>2021-05-06T14:48:09-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://gmg-utn.github.io/author/marcelo-kuperman/"
+                href="https://gmg-utn.github.io/author/martin-sanchez/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gmg-utn.github.io/en/author/marcelo-kuperman/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://gmg-utn.github.io/en/author/marcos-madrid/</loc>
-    <lastmod>2021-05-03T19:23:10-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://gmg-utn.github.io/author/marcos-madrid/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gmg-utn.github.io/en/author/marcos-madrid/"
+                href="https://gmg-utn.github.io/en/author/martin-sanchez/"
                 />
   </url>
   
   <url>
     <loc>https://gmg-utn.github.io/en/publication/</loc>
-    <lastmod>2021-05-03T19:23:10-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:09-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -139,7 +124,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/publication_types/</loc>
-    <lastmod>2021-05-03T19:23:10-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:09-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -153,8 +138,68 @@
   </url>
   
   <url>
+    <loc>https://gmg-utn.github.io/en/publication/gmg-028/</loc>
+    <lastmod>2021-05-06T14:48:06-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://gmg-utn.github.io/publication/gmg-028/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gmg-utn.github.io/en/publication/gmg-028/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gmg-utn.github.io/en/publication/gmg-038/</loc>
+    <lastmod>2021-05-06T14:48:09-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://gmg-utn.github.io/publication/gmg-038/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gmg-utn.github.io/en/publication/gmg-038/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gmg-utn.github.io/en/author/marcelo-kuperman/</loc>
+    <lastmod>2021-05-06T14:48:09-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://gmg-utn.github.io/author/marcelo-kuperman/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gmg-utn.github.io/en/author/marcelo-kuperman/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gmg-utn.github.io/en/author/marcos-madrid/</loc>
+    <lastmod>2021-05-06T14:48:09-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://gmg-utn.github.io/author/marcos-madrid/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gmg-utn.github.io/en/author/marcos-madrid/"
+                />
+  </url>
+  
+  <url>
     <loc>https://gmg-utn.github.io/en/author/sebastian-bouzat/</loc>
-    <lastmod>2021-05-03T19:23:10-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:09-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -169,7 +214,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/tag/cfd-dem/</loc>
-    <lastmod>2021-05-03T19:23:10-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:09-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -184,7 +229,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/tag/flowback/</loc>
-    <lastmod>2021-05-03T19:23:10-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:09-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -199,7 +244,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/tag/hydraulic-fracture/</loc>
-    <lastmod>2021-05-03T19:23:10-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:09-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -214,7 +259,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/tag/multiphase-flow/</loc>
-    <lastmod>2021-05-03T19:23:10-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:09-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -229,7 +274,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/author/federico-g.-vega/</loc>
-    <lastmod>2021-05-03T19:23:10-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:09-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -243,23 +288,8 @@
   </url>
   
   <url>
-    <loc>https://gmg-utn.github.io/en/author/martin-sanchez/</loc>
-    <lastmod>2021-05-03T19:23:10-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://gmg-utn.github.io/author/martin-sanchez/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gmg-utn.github.io/en/author/martin-sanchez/"
-                />
-  </url>
-  
-  <url>
     <loc>https://gmg-utn.github.io/en/publication/gmg-037/</loc>
-    <lastmod>2021-05-03T19:23:10-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:09-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -274,7 +304,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/tags/</loc>
-    <lastmod>2021-05-03T19:23:10-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:09-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -624,7 +654,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/author/ramiro-irastorza/</loc>
-    <lastmod>2021-05-03T19:23:06-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:03-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -669,7 +699,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/author/matias-fernandez/</loc>
-    <lastmod>2021-05-03T19:23:09-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:08-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -699,7 +729,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/publication/gmg-032/</loc>
-    <lastmod>2021-05-03T19:23:09-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:07-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -714,7 +744,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/author/j.-r.-darias/</loc>
-    <lastmod>2021-05-03T19:23:09-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:07-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -789,7 +819,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/author/hu-zheng/</loc>
-    <lastmod>2021-05-03T19:23:10-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:09-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -803,23 +833,23 @@
   </url>
   
   <url>
-    <loc>https://gmg-utn.github.io/en/publication/gmg-039/</loc>
-    <lastmod>2021-05-03T19:23:10-03:00</lastmod>
+    <loc>https://gmg-utn.github.io/en/publication/gmg-019/</loc>
+    <lastmod>2021-05-06T14:48:05-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://gmg-utn.github.io/publication/gmg-039/"
+                href="https://gmg-utn.github.io/publication/gmg-019/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gmg-utn.github.io/en/publication/gmg-039/"
+                href="https://gmg-utn.github.io/en/publication/gmg-019/"
                 />
   </url>
   
   <url>
     <loc>https://gmg-utn.github.io/en/author/joshua-e.-s.-socolar/</loc>
-    <lastmod>2021-05-03T19:23:10-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:09-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -834,7 +864,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/author/lou-kondic/</loc>
-    <lastmod>2021-05-03T19:23:10-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:09-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -844,6 +874,36 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://gmg-utn.github.io/en/author/lou-kondic/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gmg-utn.github.io/en/author/ryan-kozlowski/</loc>
+    <lastmod>2021-05-06T14:48:09-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://gmg-utn.github.io/author/ryan-kozlowski/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gmg-utn.github.io/en/author/ryan-kozlowski/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gmg-utn.github.io/en/publication/gmg-039/</loc>
+    <lastmod>2021-05-06T14:48:09-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://gmg-utn.github.io/publication/gmg-039/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gmg-utn.github.io/en/publication/gmg-039/"
                 />
   </url>
   
@@ -859,21 +919,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://gmg-utn.github.io/en/project/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://gmg-utn.github.io/en/author/ryan-kozlowski/</loc>
-    <lastmod>2021-05-03T19:23:10-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://gmg-utn.github.io/author/ryan-kozlowski/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gmg-utn.github.io/en/author/ryan-kozlowski/"
                 />
   </url>
   
@@ -898,8 +943,23 @@
   </url>
   
   <url>
+    <loc>https://gmg-utn.github.io/en/publication-type/1/</loc>
+    <lastmod>2021-05-06T14:48:07-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://gmg-utn.github.io/publication-type/1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gmg-utn.github.io/en/publication-type/1/"
+                />
+  </url>
+  
+  <url>
     <loc>https://gmg-utn.github.io/en/author/angel-garcimartin/</loc>
-    <lastmod>2021-05-03T19:23:09-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:08-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -914,7 +974,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/author/daniel-r.-parisi/</loc>
-    <lastmod>2021-05-03T19:23:09-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:07-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -929,7 +989,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/author/federico-sangiuliano-jimka/</loc>
-    <lastmod>2021-05-03T19:23:09-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:07-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -944,7 +1004,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/author/g.-a.-patterson/</loc>
-    <lastmod>2021-05-03T19:23:09-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:07-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -959,7 +1019,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/author/iker-zuriguel/</loc>
-    <lastmod>2021-05-03T19:23:09-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:08-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -974,7 +1034,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/author/pablo-g.-konig/</loc>
-    <lastmod>2021-05-03T19:23:09-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:07-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -989,7 +1049,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/author/pablo-ignacio-fierens/</loc>
-    <lastmod>2021-05-03T19:23:09-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:07-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1004,7 +1064,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/publication/gmg-030/</loc>
-    <lastmod>2021-05-03T19:23:09-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:07-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1019,7 +1079,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/publication/gmg-029/</loc>
-    <lastmod>2021-05-03T19:23:09-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:07-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1034,7 +1094,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/author/karen-e.-daniels/</loc>
-    <lastmod>2021-05-03T19:23:09-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:07-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1049,7 +1109,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/author/robert-behringer/</loc>
-    <lastmod>2021-05-03T19:23:09-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:07-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1064,7 +1124,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/publication/gmg-010/</loc>
-    <lastmod>2021-05-03T19:23:06-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:03-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1094,7 +1154,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/publication/gmg-035/</loc>
-    <lastmod>2021-05-03T19:23:09-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:08-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1124,7 +1184,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/publication/gmg-023/</loc>
-    <lastmod>2021-05-03T19:23:08-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:05-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1139,7 +1199,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/author/ezequiel-goldberg/</loc>
-    <lastmod>2021-05-03T19:23:08-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:05-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1154,7 +1214,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/publication/gmg-027/</loc>
-    <lastmod>2021-05-03T19:23:08-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:06-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1169,7 +1229,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/author/bruno-v.-guerrero/</loc>
-    <lastmod>2021-05-03T19:23:09-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:08-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1184,7 +1244,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/author/celia-lozano/</loc>
-    <lastmod>2021-05-03T19:23:09-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:08-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1199,7 +1259,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/publication/gmg-033/</loc>
-    <lastmod>2021-05-03T19:23:09-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:08-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1274,7 +1334,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/author/mauro-baldini/</loc>
-    <lastmod>2021-05-03T19:23:06-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:02-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1289,7 +1349,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/publication/gmg-005/</loc>
-    <lastmod>2021-05-03T19:23:06-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:02-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1329,7 +1389,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/publication/gmg-024/</loc>
-    <lastmod>2021-05-03T19:23:08-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:06-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1344,7 +1404,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/author/f.-sangiuliano-jimka/</loc>
-    <lastmod>2021-05-03T19:23:08-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:06-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1359,7 +1419,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/publication/gmg-031/</loc>
-    <lastmod>2021-05-03T19:23:09-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:07-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1374,7 +1434,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/publication/gmg-011/</loc>
-    <lastmod>2021-05-03T19:23:06-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:04-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1494,7 +1554,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/author/konstantin-mischaikow/</loc>
-    <lastmod>2021-05-03T19:23:09-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:08-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1509,7 +1569,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/author/miroslav-kramar/</loc>
-    <lastmod>2021-05-03T19:23:09-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:08-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1524,7 +1584,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/publication/gmg-004/</loc>
-    <lastmod>2021-05-03T19:23:06-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:02-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1539,7 +1599,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/publication/gmg-034/</loc>
-    <lastmod>2021-05-03T19:23:09-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:08-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1634,7 +1694,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/author/cesar-martin-gomez/</loc>
-    <lastmod>2021-05-03T19:23:07-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:05-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1649,7 +1709,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/author/diego-maza/</loc>
-    <lastmod>2021-05-03T19:23:08-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:05-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1664,7 +1724,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/publication/gmg-020/</loc>
-    <lastmod>2021-05-03T19:23:07-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:05-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1679,7 +1739,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/author/jose-martin-pastor/</loc>
-    <lastmod>2021-05-03T19:23:07-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:05-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1694,7 +1754,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/author/juan-pablo-peralta/</loc>
-    <lastmod>2021-05-03T19:23:07-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:05-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1709,7 +1769,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/author/luis-miguel-ferrer/</loc>
-    <lastmod>2021-05-03T19:23:07-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:05-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1723,23 +1783,23 @@
   </url>
   
   <url>
-    <loc>https://gmg-utn.github.io/en/author/paula-alejandra-gago/</loc>
-    <lastmod>2021-05-03T19:23:08-03:00</lastmod>
+    <loc>https://gmg-utn.github.io/en/author/paula-a.-gago/</loc>
+    <lastmod>2021-05-06T14:48:05-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://gmg-utn.github.io/author/paula-alejandra-gago/"
+                href="https://gmg-utn.github.io/author/paula-a.-gago/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gmg-utn.github.io/en/author/paula-alejandra-gago/"
+                href="https://gmg-utn.github.io/en/author/paula-a.-gago/"
                 />
   </url>
   
   <url>
     <loc>https://gmg-utn.github.io/en/publication/gmg-018/</loc>
-    <lastmod>2021-05-03T19:23:07-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:04-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1844,7 +1904,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/publication/gmg-021/</loc>
-    <lastmod>2021-05-03T19:23:08-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:05-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1858,23 +1918,23 @@
   </url>
   
   <url>
-    <loc>https://gmg-utn.github.io/en/author/demian-slobinsky/</loc>
-    <lastmod>2021-05-03T19:23:06-03:00</lastmod>
+    <loc>https://gmg-utn.github.io/en/author/d.-slobinsky/</loc>
+    <lastmod>2021-05-06T14:48:03-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://gmg-utn.github.io/author/demian-slobinsky/"
+                href="https://gmg-utn.github.io/author/d.-slobinsky/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gmg-utn.github.io/en/author/demian-slobinsky/"
+                href="https://gmg-utn.github.io/en/author/d.-slobinsky/"
                 />
   </url>
   
   <url>
     <loc>https://gmg-utn.github.io/en/publication/gmg-001/</loc>
-    <lastmod>2021-05-03T19:23:05-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:02-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1904,7 +1964,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/publication/gmg-006/</loc>
-    <lastmod>2021-05-03T19:23:06-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:03-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1919,7 +1979,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/publication/gmg-014/</loc>
-    <lastmod>2021-05-03T19:23:07-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:04-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1933,23 +1993,23 @@
   </url>
   
   <url>
-    <loc>https://gmg-utn.github.io/en/author/jose-cordero/</loc>
-    <lastmod>2021-05-03T19:23:07-03:00</lastmod>
+    <loc>https://gmg-utn.github.io/en/author/manuel-j.-cordero/</loc>
+    <lastmod>2021-05-06T14:48:04-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://gmg-utn.github.io/author/jose-cordero/"
+                href="https://gmg-utn.github.io/author/manuel-j.-cordero/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gmg-utn.github.io/en/author/jose-cordero/"
+                href="https://gmg-utn.github.io/en/author/manuel-j.-cordero/"
                 />
   </url>
   
   <url>
     <loc>https://gmg-utn.github.io/en/author/alvaro-janda/</loc>
-    <lastmod>2021-05-03T19:23:06-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:02-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1964,7 +2024,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/publication/gmg-003/</loc>
-    <lastmod>2021-05-03T19:23:06-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:02-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1979,7 +2039,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/author/eric-clement/</loc>
-    <lastmod>2021-05-03T19:23:06-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:02-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -1994,7 +2054,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/author/ignacio-pagonabarraga/</loc>
-    <lastmod>2021-05-03T19:23:06-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:02-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2009,7 +2069,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/author/raul-cruz-hidalgo/</loc>
-    <lastmod>2021-05-03T19:23:06-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:02-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2024,7 +2084,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/author/ana-maria-vidales/</loc>
-    <lastmod>2021-05-03T19:23:05-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:01-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2039,7 +2099,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/publication/gmg-000/</loc>
-    <lastmod>2021-05-03T19:23:05-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:01-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2054,7 +2114,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/author/jesica-gisele-benito/</loc>
-    <lastmod>2021-05-03T19:23:05-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:01-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2069,7 +2129,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/author/rodolfo-omar-unac/</loc>
-    <lastmod>2021-05-03T19:23:05-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:01-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2084,7 +2144,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/author/baptiste-blanc/</loc>
-    <lastmod>2021-05-03T19:23:09-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:08-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2099,7 +2159,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/author/j.-c.-geminard/</loc>
-    <lastmod>2021-05-03T19:23:09-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:08-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2114,7 +2174,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/publication/gmg-036/</loc>
-    <lastmod>2021-05-03T19:23:09-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:08-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2129,7 +2189,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/author/eric-dickinson/</loc>
-    <lastmod>2021-05-03T19:23:07-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:04-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2144,7 +2204,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/publication/gmg-013/</loc>
-    <lastmod>2021-05-03T19:23:07-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:04-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2159,7 +2219,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/author/rammile-ettelaie/</loc>
-    <lastmod>2021-05-03T19:23:07-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:04-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2174,7 +2234,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/publication/gmg-008/</loc>
-    <lastmod>2021-05-03T19:23:06-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:03-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2199,6 +2259,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://gmg-utn.github.io/en/post/2013/2013-12-06_conferencia-jean-christophe-geminard-utn-frlp/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gmg-utn.github.io/en/author/martin-sanchez/</loc>
+    <lastmod>2013-12-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://gmg-utn.github.io/author/martin-sanchez/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gmg-utn.github.io/en/author/martin-sanchez/"
                 />
   </url>
   
@@ -2294,7 +2369,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/author/roberto-arevalo/</loc>
-    <lastmod>2021-05-03T19:23:07-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:04-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2309,7 +2384,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/publication/gmg-012/</loc>
-    <lastmod>2021-05-03T19:23:07-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:04-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2324,7 +2399,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/publication/gmg-007/</loc>
-    <lastmod>2021-05-03T19:23:06-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:03-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2414,7 +2489,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/publication/gmg-040/</loc>
-    <lastmod>2021-05-03T19:23:10-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:09-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2534,7 +2609,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/publication/gmg-002/</loc>
-    <lastmod>2021-05-03T19:23:05-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:02-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2609,7 +2684,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/author/gustavo-rosenthal/</loc>
-    <lastmod>2021-05-03T19:23:08-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:06-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2624,7 +2699,7 @@
   
   <url>
     <loc>https://gmg-utn.github.io/en/publication/gmg-025/</loc>
-    <lastmod>2021-05-03T19:23:08-03:00</lastmod>
+    <lastmod>2021-05-06T14:48:06-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -2634,81 +2709,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://gmg-utn.github.io/en/publication/gmg-025/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://gmg-utn.github.io/en/publication/gmg-022/</loc>
-    <lastmod>2021-05-03T19:23:08-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://gmg-utn.github.io/publication/gmg-022/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gmg-utn.github.io/en/publication/gmg-022/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://gmg-utn.github.io/en/publication/gmg-026/</loc>
-    <lastmod>2021-05-03T19:23:08-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://gmg-utn.github.io/publication/gmg-026/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gmg-utn.github.io/en/publication/gmg-026/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://gmg-utn.github.io/en/author/fernando-vericat/</loc>
-    <lastmod>2021-05-03T19:23:07-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://gmg-utn.github.io/author/fernando-vericat/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gmg-utn.github.io/en/author/fernando-vericat/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://gmg-utn.github.io/en/author/martin-mizrahi/</loc>
-    <lastmod>2021-05-03T19:23:07-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://gmg-utn.github.io/author/martin-mizrahi/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gmg-utn.github.io/en/author/martin-mizrahi/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://gmg-utn.github.io/en/publication/gmg-016/</loc>
-    <lastmod>2021-05-03T19:23:07-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://gmg-utn.github.io/publication/gmg-016/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gmg-utn.github.io/en/publication/gmg-016/"
                 />
   </url>
   
@@ -2765,6 +2765,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://gmg-utn.github.io/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gmg-utn.github.io/en/author/demian-slobinsky/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://gmg-utn.github.io/author/demian-slobinsky/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gmg-utn.github.io/en/author/demian-slobinsky/"
                 />
   </url>
   
@@ -2839,6 +2853,34 @@
   </url>
   
   <url>
+    <loc>https://gmg-utn.github.io/en/author/gustavo-rosenthal/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://gmg-utn.github.io/author/gustavo-rosenthal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gmg-utn.github.io/en/author/gustavo-rosenthal/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gmg-utn.github.io/en/author/jose-cordero/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://gmg-utn.github.io/author/jose-cordero/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gmg-utn.github.io/en/author/jose-cordero/"
+                />
+  </url>
+  
+  <url>
     <loc>https://gmg-utn.github.io/en/author/juan-pablo-cagnola/</loc>
     <xhtml:link
                 rel="alternate"
@@ -2853,6 +2895,20 @@
   </url>
   
   <url>
+    <loc>https://gmg-utn.github.io/en/author/juan-pablo-peralta/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://gmg-utn.github.io/author/juan-pablo-peralta/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gmg-utn.github.io/en/author/juan-pablo-peralta/"
+                />
+  </url>
+  
+  <url>
     <loc>https://gmg-utn.github.io/en/author/nicolas-arce/</loc>
     <xhtml:link
                 rel="alternate"
@@ -2863,6 +2919,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://gmg-utn.github.io/en/author/nicolas-arce/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gmg-utn.github.io/en/author/paula-alejandra-gago/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://gmg-utn.github.io/author/paula-alejandra-gago/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gmg-utn.github.io/en/author/paula-alejandra-gago/"
                 />
   </url>
   
