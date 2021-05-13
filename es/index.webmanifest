@@ -1,0 +1,18 @@
+{
+  "name": "GMG",
+  "short_name": "GMG",
+  "lang": "es",
+  "theme_color": "#1565c0",
+  "background_color": "#1565c0",
+  "icons": [{
+    "src": "/images/icon_hu1999746619c4e7cb8d039d5ff408ba2e_18495_192x192_fill_lanczos_center_2.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/images/icon_hu1999746619c4e7cb8d039d5ff408ba2e_18495_512x512_fill_lanczos_center_2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/es/?utm_source=web_app_manifest"
+}

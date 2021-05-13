@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Atascos | GMG</title>
+    <link>https://gmg-utn.github.io/es/tag/atascos/</link>
+      <atom:link href="https://gmg-utn.github.io/es/tag/atascos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Atascos</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><copyright>© 2012-2021 Grupo de Materiales Granulares</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gmg-utn.github.io/media/GMG-logo.png</url>
+      <title>Atascos</title>
+      <link>https://gmg-utn.github.io/es/tag/atascos/</link>
+    </image>
+    
+    <item>
+      <title>Flujo y transporte de material granular en sistemas de interés tecnológico</title>
+      <link>https://gmg-utn.github.io/es/project/pid-1/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://gmg-utn.github.io/es/project/pid-1/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Resumen del proyecto&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Los materiales granulares constituyen uno de los principales insumos y productos de
+procesos tecnológicos en diversas industrias tales como la minera, alimenticia,
+farmacéutica, cosmética, energética, etc. Su manipulación, almacenamiento y transporte
+resultan claves en la optimización de tales procesos, por lo que un detallado conocimiento
+de estos procedimientos en una gran variedad de situaciones resulta de enorme interés. En
+este proyecto estudiaremos el flujo y transporte de material granular en diversos sistemas
+de interés tecnológico (descargas de silos en dos y tres dimensiones, transporte de
+material granular mediante líquidos en geometrías raras, etc.), utilizando para ello
+abordajes experimentales y computacionales. En particular se dispondrá del equipamiento
+disponible en Grupo de Materiales Granulares (GMG) tales como silos 2D y 3D, máquina
+simuladora de fractura, y el clúster de cálculo. Por otra parte, el presente proyecto
+pretende consolidar un equipo de trabajo con la capacidad operativa suficiente como para
+brindar asesoramiento a empresas y organismos que demanden estudios sobre problemas
+relacionados con los materiales granulares. En este sentido se dará especial importancia a
+la formación de recursos humanos en instancias de grado y posgrado, así como también a la
+formación de investigadores jóvenes.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
