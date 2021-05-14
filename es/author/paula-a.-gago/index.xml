@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paula A. Gago | GMG</title>
+    <link>http://granulares.frlp.utn.edu.ar/es/author/paula-a.-gago/</link>
+      <atom:link href="http://granulares.frlp.utn.edu.ar/es/author/paula-a.-gago/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paula A. Gago</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><copyright>© 2012-2021 Grupo de Materiales Granulares</copyright><lastBuildDate>Tue, 15 Dec 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://granulares.frlp.utn.edu.ar/media/GMG-logo.png</url>
+      <title>Paula A. Gago</title>
+      <link>http://granulares.frlp.utn.edu.ar/es/author/paula-a.-gago/</link>
+    </image>
+    
+    <item>
+      <title>Experimental proof of faster-is-slower in systems of frictional particles flowing through constrictions.</title>
+      <link>http://granulares.frlp.utn.edu.ar/es/publication/gmg-020/</link>
+      <pubDate>Tue, 15 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>http://granulares.frlp.utn.edu.ar/es/publication/gmg-020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relevance of system size to the steady-state properties of tapped granular systems.</title>
+      <link>http://granulares.frlp.utn.edu.ar/es/publication/gmg-021/</link>
+      <pubDate>Mon, 30 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>http://granulares.frlp.utn.edu.ar/es/publication/gmg-021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clogging transition of many-particle systems flowing through bottlenecks</title>
+      <link>http://granulares.frlp.utn.edu.ar/es/publication/gmg-003/</link>
+      <pubDate>Thu, 04 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>http://granulares.frlp.utn.edu.ar/es/publication/gmg-003/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

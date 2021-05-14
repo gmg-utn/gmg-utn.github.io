@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raúl Cruz Hidalgo | GMG</title>
+    <link>http://granulares.frlp.utn.edu.ar/es/author/raul-cruz-hidalgo/</link>
+      <atom:link href="http://granulares.frlp.utn.edu.ar/es/author/raul-cruz-hidalgo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Raúl Cruz Hidalgo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><copyright>© 2012-2021 Grupo de Materiales Granulares</copyright><lastBuildDate>Thu, 04 Dec 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://granulares.frlp.utn.edu.ar/media/GMG-logo.png</url>
+      <title>Raúl Cruz Hidalgo</title>
+      <link>http://granulares.frlp.utn.edu.ar/es/author/raul-cruz-hidalgo/</link>
+    </image>
+    
+    <item>
+      <title>Clogging transition of many-particle systems flowing through bottlenecks</title>
+      <link>http://granulares.frlp.utn.edu.ar/es/publication/gmg-003/</link>
+      <pubDate>Thu, 04 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>http://granulares.frlp.utn.edu.ar/es/publication/gmg-003/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

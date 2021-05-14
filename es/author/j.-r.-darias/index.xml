@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. R. Darias | GMG</title>
+    <link>http://granulares.frlp.utn.edu.ar/es/author/j.-r.-darias/</link>
+      <atom:link href="http://granulares.frlp.utn.edu.ar/es/author/j.-r.-darias/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. R. Darias</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><copyright>© 2012-2021 Grupo de Materiales Granulares</copyright><lastBuildDate>Thu, 14 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://granulares.frlp.utn.edu.ar/media/GMG-logo.png</url>
+      <title>J. R. Darias</title>
+      <link>http://granulares.frlp.utn.edu.ar/es/author/j.-r.-darias/</link>
+    </image>
+    
+    <item>
+      <title>Differential equation for the flow rate of discharging silos based on energy balance</title>
+      <link>http://granulares.frlp.utn.edu.ar/es/publication/gmg-032/</link>
+      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
+      <guid>http://granulares.frlp.utn.edu.ar/es/publication/gmg-032/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forced flow of granular media: Breakdown of the Beverloo scaling</title>
+      <link>http://granulares.frlp.utn.edu.ar/es/publication/gmg-027/</link>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>http://granulares.frlp.utn.edu.ar/es/publication/gmg-027/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A differential equation for the flow rate during silo discharge: Beyond the Beverloo rule</title>
+      <link>http://granulares.frlp.utn.edu.ar/es/publication/gmg-031/</link>
+      <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>http://granulares.frlp.utn.edu.ar/es/publication/gmg-031/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

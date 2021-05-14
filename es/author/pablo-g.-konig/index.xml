@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pablo G. König | GMG</title>
+    <link>http://granulares.frlp.utn.edu.ar/es/author/pablo-g.-konig/</link>
+      <atom:link href="http://granulares.frlp.utn.edu.ar/es/author/pablo-g.-konig/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pablo G. König</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><copyright>© 2012-2021 Grupo de Materiales Granulares</copyright><lastBuildDate>Thu, 24 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://granulares.frlp.utn.edu.ar/media/GMG-logo.png</url>
+      <title>Pablo G. König</title>
+      <link>http://granulares.frlp.utn.edu.ar/es/author/pablo-g.-konig/</link>
+    </image>
+    
+    <item>
+      <title>Vibration Driven Vehicles Flowing Through Bottlenecks</title>
+      <link>http://granulares.frlp.utn.edu.ar/es/publication/gmg-030/</link>
+      <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://granulares.frlp.utn.edu.ar/es/publication/gmg-030/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clogging Transition of Vibration-Driven Vehicles Passing through Constrictions</title>
+      <link>http://granulares.frlp.utn.edu.ar/es/publication/gmg-024/</link>
+      <pubDate>Wed, 13 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://granulares.frlp.utn.edu.ar/es/publication/gmg-024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

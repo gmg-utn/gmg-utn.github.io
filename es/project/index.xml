@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Proyectos | GMG</title>
+    <link>http://granulares.frlp.utn.edu.ar/es/project/</link>
+      <atom:link href="http://granulares.frlp.utn.edu.ar/es/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Proyectos</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><copyright>© 2012-2021 Grupo de Materiales Granulares</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://granulares.frlp.utn.edu.ar/media/GMG-logo.png</url>
+      <title>Proyectos</title>
+      <link>http://granulares.frlp.utn.edu.ar/es/project/</link>
+    </image>
+    
+    <item>
+      <title>Propiedades estructurales en carga y descarga de silos</title>
+      <link>http://granulares.frlp.utn.edu.ar/es/project/pid-2/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://granulares.frlp.utn.edu.ar/es/project/pid-2/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Resumen del proyecto&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Según cifras de la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO), la producción
+mundial anual de cereales es de aproximadamente 2x109 toneladas. Se calcula que el 10% de la energía producida en
+el planeta, está dedicada al procesamiento de materiales granulares [&lt;a href=&#34;#1&#34;&gt;1&lt;/a&gt;]. Sólo en Argentina, en la campaña 2014/2015,
+la cosecha de cereales y oleaginosas alcanzó las 125 × 106 toneladas [&lt;a href=&#34;#2&#34;&gt;2&lt;/a&gt;]. Las pérdidas por problemas en
+almacenamiento (como colapso de silos, atascos, etc.) y transporte de los mismos (límites en la velocidad de
+llenado/vaciado, segregación, etc.) se estima que alcanzan en algunos casos al 30 % de la cosecha, lo cual se traduce
+en pérdidas millonarias. Por otro lado, es sabido que la presión en el fondo de un silo varía con el protocolo de llenado
+del mismo, y que que la inclusión de obstáculos en cercanías al orificio de salida pueden favorecer la descarga de un
+silo y evitar los atascos  [&lt;a href=&#34;#3&#34;&gt;3&lt;/a&gt;] [&lt;a href=&#34;#4&#34;&gt;4&lt;/a&gt;]. En el presente proyecto se estudiará la variación de la presión en el fondo y de caudal
+durante el proceso de carga/descarga para distintos protocolos de llenado así como en un silo reforzado con tensores
+perpendiculares a las paredes del silo ubicados a diferentes alturas. Este tipo de dispositivos puede ser utilizado por
+un lado para reforzar el silo en puntos clave (de mayor estrés), y por otro, para optimizar la descarga del material
+granular. Se estudiará tanto por medio de simulaciones tipo DEM como de manera experimental, con un dispositivo
+instalado en el GMG y otro que estamos desarrollando.&lt;/p&gt;
+&lt;p&gt;&lt;a id=&#34;1&#34;&gt; [1] &lt;/a&gt;  Duran, J. et al., Sands, Powders, and Grains: An Introduction
+to the Physics of Granular Materials. (1999), Springer-Verlag New York.&lt;/p&gt;
+&lt;p&gt;&lt;a id=&#34;2&#34;&gt; [2] &lt;/a&gt;  &lt;a href=&#34;http://www.agroindustria.gob.ar/sitio/&#34;&gt;http://www.agroindustria.gob.ar/sitio/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a id=&#34;3&#34;&gt; [3] &lt;/a&gt; Tuzun et al., Chemical Engineering Science Vol. 40. No. 3.
+pp. 337-351, (1985).&lt;/p&gt;
+&lt;p&gt;&lt;a id=&#34;4&#34;&gt; [4] &lt;/a&gt; Zuriguel et al., Physical Review Letters 107, 278001 (2011).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Flujo y transporte de material granular en sistemas de interés tecnológico</title>
+      <link>http://granulares.frlp.utn.edu.ar/es/project/pid-1/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://granulares.frlp.utn.edu.ar/es/project/pid-1/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Resumen del proyecto&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Los materiales granulares constituyen uno de los principales insumos y productos de
+procesos tecnológicos en diversas industrias tales como la minera, alimenticia,
+farmacéutica, cosmética, energética, etc. Su manipulación, almacenamiento y transporte
+resultan claves en la optimización de tales procesos, por lo que un detallado conocimiento
+de estos procedimientos en una gran variedad de situaciones resulta de enorme interés. En
+este proyecto estudiaremos el flujo y transporte de material granular en diversos sistemas
+de interés tecnológico (descargas de silos en dos y tres dimensiones, transporte de
+material granular mediante líquidos en geometrías raras, etc.), utilizando para ello
+abordajes experimentales y computacionales. En particular se dispondrá del equipamiento
+disponible en Grupo de Materiales Granulares (GMG) tales como silos 2D y 3D, máquina
+simuladora de fractura, y el clúster de cálculo. Por otra parte, el presente proyecto
+pretende consolidar un equipo de trabajo con la capacidad operativa suficiente como para
+brindar asesoramiento a empresas y organismos que demanden estudios sobre problemas
+relacionados con los materiales granulares. En este sentido se dará especial importancia a
+la formación de recursos humanos en instancias de grado y posgrado, así como también a la
+formación de investigadores jóvenes.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

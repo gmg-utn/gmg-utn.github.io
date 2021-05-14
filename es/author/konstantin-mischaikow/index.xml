@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Konstantin Mischaikow | GMG</title>
+    <link>http://granulares.frlp.utn.edu.ar/es/author/konstantin-mischaikow/</link>
+      <atom:link href="http://granulares.frlp.utn.edu.ar/es/author/konstantin-mischaikow/index.xml" rel="self" type="application/rss+xml" />
+    <description>Konstantin Mischaikow</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><copyright>© 2012-2021 Grupo de Materiales Granulares</copyright><lastBuildDate>Tue, 14 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://granulares.frlp.utn.edu.ar/media/GMG-logo.png</url>
+      <title>Konstantin Mischaikow</title>
+      <link>http://granulares.frlp.utn.edu.ar/es/author/konstantin-mischaikow/</link>
+    </image>
+    
+    <item>
+      <title>Structure of force networks in tapped particulate systems of disks and pentagons. I. Clusters and loops.</title>
+      <link>http://granulares.frlp.utn.edu.ar/es/publication/gmg-004/</link>
+      <pubDate>Tue, 14 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>http://granulares.frlp.utn.edu.ar/es/publication/gmg-004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure of force networks in tapped particulate systems of disks and pentagons. II. Persistence analysis.</title>
+      <link>http://granulares.frlp.utn.edu.ar/es/publication/gmg-034/</link>
+      <pubDate>Tue, 14 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>http://granulares.frlp.utn.edu.ar/es/publication/gmg-034/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

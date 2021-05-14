@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iker Zuriguel | GMG</title>
+    <link>http://granulares.frlp.utn.edu.ar/es/author/iker-zuriguel/</link>
+      <atom:link href="http://granulares.frlp.utn.edu.ar/es/author/iker-zuriguel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Iker Zuriguel</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><copyright>© 2012-2021 Grupo de Materiales Granulares</copyright><lastBuildDate>Thu, 24 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://granulares.frlp.utn.edu.ar/media/GMG-logo.png</url>
+      <title>Iker Zuriguel</title>
+      <link>http://granulares.frlp.utn.edu.ar/es/author/iker-zuriguel/</link>
+    </image>
+    
+    <item>
+      <title>Vibration Driven Vehicles Flowing Through Bottlenecks</title>
+      <link>http://granulares.frlp.utn.edu.ar/es/publication/gmg-030/</link>
+      <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://granulares.frlp.utn.edu.ar/es/publication/gmg-030/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slow relaxation dynamics of clogs in a vibrated granular silo.</title>
+      <link>http://granulares.frlp.utn.edu.ar/es/publication/gmg-033/</link>
+      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://granulares.frlp.utn.edu.ar/es/publication/gmg-033/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clogging Transition of Vibration-Driven Vehicles Passing through Constrictions</title>
+      <link>http://granulares.frlp.utn.edu.ar/es/publication/gmg-024/</link>
+      <pubDate>Wed, 13 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://granulares.frlp.utn.edu.ar/es/publication/gmg-024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental proof of faster-is-slower in systems of frictional particles flowing through constrictions.</title>
+      <link>http://granulares.frlp.utn.edu.ar/es/publication/gmg-020/</link>
+      <pubDate>Tue, 15 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>http://granulares.frlp.utn.edu.ar/es/publication/gmg-020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clogging transition of many-particle systems flowing through bottlenecks</title>
+      <link>http://granulares.frlp.utn.edu.ar/es/publication/gmg-003/</link>
+      <pubDate>Thu, 04 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>http://granulares.frlp.utn.edu.ar/es/publication/gmg-003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tapped granular packings described as complex networks</title>
+      <link>http://granulares.frlp.utn.edu.ar/es/publication/gmg-012/</link>
+      <pubDate>Thu, 06 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>http://granulares.frlp.utn.edu.ar/es/publication/gmg-012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact network topology in tapped granular media.</title>
+      <link>http://granulares.frlp.utn.edu.ar/es/publication/gmg-002/</link>
+      <pubDate>Fri, 08 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>http://granulares.frlp.utn.edu.ar/es/publication/gmg-002/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

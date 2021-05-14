@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sebastián Bouzat | GMG</title>
+    <link>http://granulares.frlp.utn.edu.ar/en/author/sebastian-bouzat/</link>
+      <atom:link href="http://granulares.frlp.utn.edu.ar/en/author/sebastian-bouzat/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sebastián Bouzat</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2012-2021 Grupo de Materiales Granulares</copyright><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://granulares.frlp.utn.edu.ar/images/logo_huba578aa6b5500482f3aab5585e91b3f0_7048_300x300_fit_lanczos_2.png</url>
+      <title>Sebastián Bouzat</title>
+      <link>http://granulares.frlp.utn.edu.ar/en/author/sebastian-bouzat/</link>
+    </image>
+    
+    <item>
+      <title>Enhancement of the flow of vibrated grains through narrow apertures by addition of small particles</title>
+      <link>http://granulares.frlp.utn.edu.ar/en/publication/gmg-038/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://granulares.frlp.utn.edu.ar/en/publication/gmg-038/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
