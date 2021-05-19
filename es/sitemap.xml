@@ -43,6 +43,16 @@
   </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/es/talk/seminarios/2021/seminario-21-06-01/</loc>
     <lastmod>2021-06-01T14:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/talk/seminarios/2021/seminario-21-06-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/talk/seminarios/2021/seminario-21-06-01/"
+                />
   </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/es/author/martin-sanchez/</loc>
     <lastmod>2021-06-01T14:00:00+00:00</lastmod>
@@ -215,6 +225,16 @@
   </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/es/post/2021/2021-01/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/post/2021/2021-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/post/2021/2021-01/"
+                />
   </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/es/post/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
