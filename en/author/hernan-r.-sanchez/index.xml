@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hernán R. Sánchez | GMG</title>
+    <link>http://granulares.frlp.utn.edu.ar/en/author/hernan-r.-sanchez/</link>
+      <atom:link href="http://granulares.frlp.utn.edu.ar/en/author/hernan-r.-sanchez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hernán R. Sánchez</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2012-2021 Grupo de Materiales Granulares</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://granulares.frlp.utn.edu.ar/images/logo_huba578aa6b5500482f3aab5585e91b3f0_7048_300x300_fit_lanczos_2.png</url>
+      <title>Hernán R. Sánchez</title>
+      <link>http://granulares.frlp.utn.edu.ar/en/author/hernan-r.-sanchez/</link>
+    </image>
+    
+    <item>
+      <title>Uncertainties and temperature correction in molecular dynamic simulations of dielectric properties of condensed polar systems</title>
+      <link>http://granulares.frlp.utn.edu.ar/en/publication/gmg-047/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://granulares.frlp.utn.edu.ar/en/publication/gmg-047/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

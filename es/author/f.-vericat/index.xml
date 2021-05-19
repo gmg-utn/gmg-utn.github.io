@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F. Vericat | GMG</title>
+    <link>http://granulares.frlp.utn.edu.ar/es/author/f.-vericat/</link>
+      <atom:link href="http://granulares.frlp.utn.edu.ar/es/author/f.-vericat/index.xml" rel="self" type="application/rss+xml" />
+    <description>F. Vericat</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><copyright>© 2012-2021 Grupo de Materiales Granulares</copyright><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://granulares.frlp.utn.edu.ar/media/GMG-logo.png</url>
+      <title>F. Vericat</title>
+      <link>http://granulares.frlp.utn.edu.ar/es/author/f.-vericat/</link>
+    </image>
+    
+    <item>
+      <title>Microwave tomography with phaseless data on the calcaneus by means of artificial neural networks</title>
+      <link>http://granulares.frlp.utn.edu.ar/es/publication/gmg-049/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://granulares.frlp.utn.edu.ar/es/publication/gmg-049/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensitivity analysis on imaging the calcaneus using microwaves</title>
+      <link>http://granulares.frlp.utn.edu.ar/es/publication/gmg-048/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://granulares.frlp.utn.edu.ar/es/publication/gmg-048/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

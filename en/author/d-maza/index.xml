@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D Maza | GMG</title>
+    <link>http://granulares.frlp.utn.edu.ar/en/author/d-maza/</link>
+      <atom:link href="http://granulares.frlp.utn.edu.ar/en/author/d-maza/index.xml" rel="self" type="application/rss+xml" />
+    <description>D Maza</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2012-2021 Grupo de Materiales Granulares</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://granulares.frlp.utn.edu.ar/images/logo_huba578aa6b5500482f3aab5585e91b3f0_7048_300x300_fit_lanczos_2.png</url>
+      <title>D Maza</title>
+      <link>http://granulares.frlp.utn.edu.ar/en/author/d-maza/</link>
+    </image>
+    
+    <item>
+      <title>The hopper angle role on the velocity and solid-fraction profiles at the outlet of silos</title>
+      <link>http://granulares.frlp.utn.edu.ar/en/publication/gmg-042/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://granulares.frlp.utn.edu.ar/en/publication/gmg-042/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

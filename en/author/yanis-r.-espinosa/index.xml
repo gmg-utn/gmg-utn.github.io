@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yanis R. Espinosa | GMG</title>
+    <link>http://granulares.frlp.utn.edu.ar/en/author/yanis-r.-espinosa/</link>
+      <atom:link href="http://granulares.frlp.utn.edu.ar/en/author/yanis-r.-espinosa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yanis R. Espinosa</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2012-2021 Grupo de Materiales Granulares</copyright><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://granulares.frlp.utn.edu.ar/images/logo_huba578aa6b5500482f3aab5585e91b3f0_7048_300x300_fit_lanczos_2.png</url>
+      <title>Yanis R. Espinosa</title>
+      <link>http://granulares.frlp.utn.edu.ar/en/author/yanis-r.-espinosa/</link>
+    </image>
+    
+    <item>
+      <title>Molecular dynamics simulation of the heart type fatty acid binding protein in a crystal environment</title>
+      <link>http://granulares.frlp.utn.edu.ar/en/publication/gmg-044/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://granulares.frlp.utn.edu.ar/en/publication/gmg-044/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

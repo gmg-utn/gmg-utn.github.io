@@ -2,21 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://granulares.frlp.utn.edu.ar/es/publication-type/2/</loc>
-    <lastmod>2021-05-06T14:48:09-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://granulares.frlp.utn.edu.ar/en/publication-type/2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://granulares.frlp.utn.edu.ar/es/publication-type/2/"
-                />
-  </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/es/authors/</loc>
-    <lastmod>2021-05-18T14:00:00+00:00</lastmod>
+    <lastmod>2021-06-01T14:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -26,6 +13,87 @@
                 rel="alternate"
                 hreflang="es"
                 href="http://granulares.frlp.utn.edu.ar/es/authors/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/talk/</loc>
+    <lastmod>2021-06-01T14:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/talk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/talk/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/</loc>
+    <lastmod>2021-06-01T14:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/talk/seminarios/2021/seminario-21-06-01/</loc>
+    <lastmod>2021-06-01T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/author/martin-sanchez/</loc>
+    <lastmod>2021-06-01T14:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/author/martin-sanchez/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/author/martin-sanchez/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/tag/seminario/</loc>
+    <lastmod>2021-06-01T14:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/tag/seminario/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/tag/seminario/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/tags/</loc>
+    <lastmod>2021-06-01T14:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/tags/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/publication-type/2/</loc>
+    <lastmod>2021-05-17T21:29:28-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/publication-type/2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/publication-type/2/"
                 />
   </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/es/author/federico-gaspar-vega/</loc>
@@ -39,19 +107,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="http://granulares.frlp.utn.edu.ar/es/author/federico-gaspar-vega/"
-                />
-  </url><url>
-    <loc>http://granulares.frlp.utn.edu.ar/es/</loc>
-    <lastmod>2021-05-18T14:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://granulares.frlp.utn.edu.ar/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://granulares.frlp.utn.edu.ar/es/"
                 />
   </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/es/author/luis-pugnaloni/</loc>
@@ -68,7 +123,7 @@
                 />
   </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/es/author/manuel-carlevaro/</loc>
-    <lastmod>2021-05-06T14:48:09-03:00</lastmod>
+    <lastmod>2021-05-17T21:29:28-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -94,7 +149,7 @@
                 />
   </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/es/publication/</loc>
-    <lastmod>2021-05-06T14:48:09-03:00</lastmod>
+    <lastmod>2021-05-17T21:29:28-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -107,7 +162,7 @@
                 />
   </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/es/publication_types/</loc>
-    <lastmod>2021-05-06T14:48:09-03:00</lastmod>
+    <lastmod>2021-05-17T21:29:28-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -132,45 +187,6 @@
                 href="http://granulares.frlp.utn.edu.ar/es/publication/gmg-028/"
                 />
   </url><url>
-    <loc>http://granulares.frlp.utn.edu.ar/es/talk/</loc>
-    <lastmod>2021-05-18T14:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://granulares.frlp.utn.edu.ar/en/talk/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://granulares.frlp.utn.edu.ar/es/talk/"
-                />
-  </url><url>
-    <loc>http://granulares.frlp.utn.edu.ar/es/tag/seminario/</loc>
-    <lastmod>2021-05-18T14:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://granulares.frlp.utn.edu.ar/en/tag/seminario/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://granulares.frlp.utn.edu.ar/es/tag/seminario/"
-                />
-  </url><url>
-    <loc>http://granulares.frlp.utn.edu.ar/es/tags/</loc>
-    <lastmod>2021-05-18T14:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://granulares.frlp.utn.edu.ar/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://granulares.frlp.utn.edu.ar/es/tags/"
-                />
-  </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/es/talk/seminarios/2021/seminario-21-05-18/</loc>
     <lastmod>2021-05-18T14:00:00+00:00</lastmod>
     <xhtml:link
@@ -182,6 +198,35 @@
                 rel="alternate"
                 hreflang="es"
                 href="http://granulares.frlp.utn.edu.ar/es/talk/seminarios/2021/seminario-21-05-18/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/author/ariel-meyra/</loc>
+    <lastmod>2021-05-17T21:29:28-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/author/ariel-meyra/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/author/ariel-meyra/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/post/2021/2021-01/</loc>
+    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/post/</loc>
+    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/post/"
                 />
   </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/es/publication/gmg-038/</loc>
@@ -211,7 +256,7 @@
                 />
   </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/es/author/marcos-madrid/</loc>
-    <lastmod>2021-05-06T14:48:09-03:00</lastmod>
+    <lastmod>2021-05-17T21:21:45-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -234,97 +279,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="http://granulares.frlp.utn.edu.ar/es/author/sebastian-bouzat/"
-                />
-  </url><url>
-    <loc>http://granulares.frlp.utn.edu.ar/es/tag/cfd-dem/</loc>
-    <lastmod>2021-05-06T14:48:09-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://granulares.frlp.utn.edu.ar/en/tag/cfd-dem/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://granulares.frlp.utn.edu.ar/es/tag/cfd-dem/"
-                />
-  </url><url>
-    <loc>http://granulares.frlp.utn.edu.ar/es/tag/flowback/</loc>
-    <lastmod>2021-05-06T14:48:09-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://granulares.frlp.utn.edu.ar/en/tag/flowback/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://granulares.frlp.utn.edu.ar/es/tag/flowback/"
-                />
-  </url><url>
-    <loc>http://granulares.frlp.utn.edu.ar/es/tag/hydraulic-fracture/</loc>
-    <lastmod>2021-05-06T14:48:09-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://granulares.frlp.utn.edu.ar/en/tag/hydraulic-fracture/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://granulares.frlp.utn.edu.ar/es/tag/hydraulic-fracture/"
-                />
-  </url><url>
-    <loc>http://granulares.frlp.utn.edu.ar/es/tag/multiphase-flow/</loc>
-    <lastmod>2021-05-06T14:48:09-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://granulares.frlp.utn.edu.ar/en/tag/multiphase-flow/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://granulares.frlp.utn.edu.ar/es/tag/multiphase-flow/"
-                />
-  </url><url>
-    <loc>http://granulares.frlp.utn.edu.ar/es/author/federico-g.-vega/</loc>
-    <lastmod>2021-05-06T14:48:09-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://granulares.frlp.utn.edu.ar/en/author/federico-g.-vega/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://granulares.frlp.utn.edu.ar/es/author/federico-g.-vega/"
-                />
-  </url><url>
-    <loc>http://granulares.frlp.utn.edu.ar/es/publication/gmg-037/</loc>
-    <lastmod>2021-05-06T14:48:09-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://granulares.frlp.utn.edu.ar/en/publication/gmg-037/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://granulares.frlp.utn.edu.ar/es/publication/gmg-037/"
-                />
-  </url><url>
-    <loc>http://granulares.frlp.utn.edu.ar/es/post/</loc>
-    <lastmod>2020-12-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://granulares.frlp.utn.edu.ar/en/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://granulares.frlp.utn.edu.ar/es/post/"
                 />
   </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/es/post/2020/2020-12-17_revista-mecanica-tecnologica-vol2/</loc>
@@ -577,24 +531,11 @@
                 href="http://granulares.frlp.utn.edu.ar/es/talk/seminarios/2020/seminario-20-09-15/"
                 />
   </url><url>
-    <loc>http://granulares.frlp.utn.edu.ar/es/author/ariel-meyra/</loc>
-    <lastmod>2020-09-01T14:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://granulares.frlp.utn.edu.ar/en/author/ariel-meyra/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://granulares.frlp.utn.edu.ar/es/author/ariel-meyra/"
-                />
-  </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/es/talk/seminarios/2020/seminario-20-09-01/</loc>
     <lastmod>2020-09-01T14:00:00+00:00</lastmod>
   </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/es/author/ramiro-irastorza/</loc>
-    <lastmod>2021-05-06T14:48:03-03:00</lastmod>
+    <lastmod>2021-05-17T21:29:28-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -633,7 +574,7 @@
                 />
   </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/es/author/matias-fernandez/</loc>
-    <lastmod>2021-05-06T14:48:08-03:00</lastmod>
+    <lastmod>2021-05-17T21:21:45-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -656,6 +597,58 @@
                 rel="alternate"
                 hreflang="es"
                 href="http://granulares.frlp.utn.edu.ar/es/post/2020/2020-07-01_defensa-tesis-baldini/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/author/eduardo-i.-howard/</loc>
+    <lastmod>2021-05-17T21:21:45-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/author/eduardo-i.-howard/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/author/eduardo-i.-howard/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/author/h.-ariel-alvarez/</loc>
+    <lastmod>2021-05-17T21:21:45-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/author/h.-ariel-alvarez/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/author/h.-ariel-alvarez/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/publication/gmg-044/</loc>
+    <lastmod>2021-05-17T21:21:45-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/publication/gmg-044/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/publication/gmg-044/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/author/yanis-r.-espinosa/</loc>
+    <lastmod>2021-05-17T21:21:45-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/author/yanis-r.-espinosa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/author/yanis-r.-espinosa/"
                 />
   </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/es/publication/gmg-032/</loc>
@@ -801,6 +794,136 @@
                 href="http://granulares.frlp.utn.edu.ar/es/author/ryan-kozlowski/"
                 />
   </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/author/a-ciach/</loc>
+    <lastmod>2021-05-17T21:21:45-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/author/a-ciach/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/author/a-ciach/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/author/ana-gonzalez-suarez/</loc>
+    <lastmod>2021-05-17T21:21:45-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/author/ana-gonzalez-suarez/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/author/ana-gonzalez-suarez/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/author/blanca-t.-perez-maceda/</loc>
+    <lastmod>2021-05-17T21:21:45-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/author/blanca-t.-perez-maceda/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/author/blanca-t.-perez-maceda/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/publication/gmg-046/</loc>
+    <lastmod>2021-05-17T21:21:45-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/publication/gmg-046/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/publication/gmg-046/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/author/d-gella/</loc>
+    <lastmod>2021-05-17T21:21:45-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/author/d-gella/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/author/d-gella/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/author/d-maza/</loc>
+    <lastmod>2021-05-17T21:21:45-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/author/d-maza/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/author/d-maza/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/publication/gmg-041/</loc>
+    <lastmod>2021-05-17T21:21:45-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/publication/gmg-041/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/publication/gmg-041/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/publication/gmg-043/</loc>
+    <lastmod>2021-05-17T21:21:45-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/publication/gmg-043/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/publication/gmg-043/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/author/enrique-berjano/</loc>
+    <lastmod>2021-05-17T21:21:45-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/author/enrique-berjano/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/author/enrique-berjano/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/author/i-zuriguel/</loc>
+    <lastmod>2021-05-17T21:21:45-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/author/i-zuriguel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/author/i-zuriguel/"
+                />
+  </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/es/publication/gmg-039/</loc>
     <lastmod>2021-05-06T14:48:09-03:00</lastmod>
     <xhtml:link
@@ -812,6 +935,136 @@
                 rel="alternate"
                 hreflang="es"
                 href="http://granulares.frlp.utn.edu.ar/es/publication/gmg-039/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/author/jr-darias/</loc>
+    <lastmod>2021-05-17T21:21:45-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/author/jr-darias/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/author/jr-darias/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/author/juan-j-perez/</loc>
+    <lastmod>2021-05-17T21:21:45-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/author/juan-j-perez/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/author/juan-j-perez/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/author/natalia-s.-fagali/</loc>
+    <lastmod>2021-05-17T21:21:45-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/author/natalia-s.-fagali/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/author/natalia-s.-fagali/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/author/o-patsahan/</loc>
+    <lastmod>2021-05-17T21:21:45-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/author/o-patsahan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/author/o-patsahan/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/author/rosa-m.-lozano-puerto/</loc>
+    <lastmod>2021-05-17T21:21:45-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/author/rosa-m.-lozano-puerto/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/author/rosa-m.-lozano-puerto/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/publication/gmg-042/</loc>
+    <lastmod>2021-05-17T21:21:45-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/publication/gmg-042/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/publication/gmg-042/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/author/f.-p.-lotto/</loc>
+    <lastmod>2021-05-17T21:29:28-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/author/f.-p.-lotto/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/author/f.-p.-lotto/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/author/f.-vericat/</loc>
+    <lastmod>2021-05-17T21:29:28-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/author/f.-vericat/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/author/f.-vericat/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/author/j.-e.-fajardo/</loc>
+    <lastmod>2021-05-17T21:29:28-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/author/j.-e.-fajardo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/author/j.-e.-fajardo/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/publication/gmg-049/</loc>
+    <lastmod>2021-05-17T21:29:28-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/publication/gmg-049/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/publication/gmg-049/"
                 />
   </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/es/publication-type/1/</loc>
@@ -983,6 +1236,19 @@
                 href="http://granulares.frlp.utn.edu.ar/es/publication/gmg-010/"
                 />
   </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/publication/gmg-048/</loc>
+    <lastmod>2021-05-17T21:29:28-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/publication/gmg-048/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/publication/gmg-048/"
+                />
+  </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/es/publication/memoria-2018/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -996,6 +1262,136 @@
                 href="http://granulares.frlp.utn.edu.ar/es/publication/memoria-2018/"
                 />
   </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/author/alberto-l-maltz/</loc>
+    <lastmod>2021-05-17T21:29:28-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/author/alberto-l-maltz/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/author/alberto-l-maltz/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/author/c-gaston-ferrara/</loc>
+    <lastmod>2021-05-17T21:29:28-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/author/c-gaston-ferrara/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/author/c-gaston-ferrara/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/author/enrique-lomba/</loc>
+    <lastmod>2021-05-17T21:29:28-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/author/enrique-lomba/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/author/enrique-lomba/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/author/fernando-vericat/</loc>
+    <lastmod>2021-05-17T21:29:28-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/author/fernando-vericat/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/author/fernando-vericat/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/author/guillermo-j-zarragoicoechea/</loc>
+    <lastmod>2021-05-17T21:29:28-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/author/guillermo-j-zarragoicoechea/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/author/guillermo-j-zarragoicoechea/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/author/hernan-r.-sanchez/</loc>
+    <lastmod>2021-05-17T21:29:28-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/author/hernan-r.-sanchez/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/author/hernan-r.-sanchez/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/publication/gmg-051/</loc>
+    <lastmod>2021-05-17T21:29:28-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/publication/gmg-051/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/publication/gmg-051/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/author/jesus-e-fajardo/</loc>
+    <lastmod>2021-05-17T21:29:28-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/author/jesus-e-fajardo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/author/jesus-e-fajardo/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/author/julian-galvan/</loc>
+    <lastmod>2021-05-17T21:29:28-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/author/julian-galvan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/author/julian-galvan/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/publication/gmg-050/</loc>
+    <lastmod>2021-05-17T21:29:28-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/publication/gmg-050/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/publication/gmg-050/"
+                />
+  </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/es/publication/gmg-035/</loc>
     <lastmod>2021-05-06T14:48:08-03:00</lastmod>
     <xhtml:link
@@ -1007,6 +1403,45 @@
                 rel="alternate"
                 hreflang="es"
                 href="http://granulares.frlp.utn.edu.ar/es/publication/gmg-035/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/author/salvatore-torquato/</loc>
+    <lastmod>2021-05-17T21:29:28-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/author/salvatore-torquato/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/author/salvatore-torquato/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/publication/gmg-052/</loc>
+    <lastmod>2021-05-17T21:29:28-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/publication/gmg-052/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/publication/gmg-052/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/publication/gmg-047/</loc>
+    <lastmod>2021-05-17T21:29:28-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/publication/gmg-047/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/publication/gmg-047/"
                 />
   </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/es/post/2018/2018-11-23_defensa-tesis-fernandez/</loc>
@@ -2021,19 +2456,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="http://granulares.frlp.utn.edu.ar/es/post/2013/2013-12-06_conferencia-jean-christophe-geminard-utn-frlp/"
-                />
-  </url><url>
-    <loc>http://granulares.frlp.utn.edu.ar/es/author/martin-sanchez/</loc>
-    <lastmod>2013-12-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://granulares.frlp.utn.edu.ar/en/author/martin-sanchez/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://granulares.frlp.utn.edu.ar/es/author/martin-sanchez/"
                 />
   </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/es/post/2013/2013-11-19_conferencia-gustavo-bianchi-utn-frlp/</loc>

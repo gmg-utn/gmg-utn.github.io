@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fernando Vericat | GMG</title>
+    <link>http://granulares.frlp.utn.edu.ar/es/author/fernando-vericat/</link>
+      <atom:link href="http://granulares.frlp.utn.edu.ar/es/author/fernando-vericat/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fernando Vericat</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><copyright>© 2012-2021 Grupo de Materiales Granulares</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://granulares.frlp.utn.edu.ar/media/GMG-logo.png</url>
+      <title>Fernando Vericat</title>
+      <link>http://granulares.frlp.utn.edu.ar/es/author/fernando-vericat/</link>
+    </image>
+    
+    <item>
+      <title>Phaseless Microwave Imaging Of Dielectric Cylinders: An Artificial Neural Networks-Based Approach</title>
+      <link>http://granulares.frlp.utn.edu.ar/es/publication/gmg-050/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://granulares.frlp.utn.edu.ar/es/publication/gmg-050/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

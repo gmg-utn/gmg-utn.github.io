@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Salvatore Torquato | GMG</title>
+    <link>http://granulares.frlp.utn.edu.ar/es/author/salvatore-torquato/</link>
+      <atom:link href="http://granulares.frlp.utn.edu.ar/es/author/salvatore-torquato/index.xml" rel="self" type="application/rss+xml" />
+    <description>Salvatore Torquato</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><copyright>© 2012-2021 Grupo de Materiales Granulares</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://granulares.frlp.utn.edu.ar/media/GMG-logo.png</url>
+      <title>Salvatore Torquato</title>
+      <link>http://granulares.frlp.utn.edu.ar/es/author/salvatore-torquato/</link>
+    </image>
+    
+    <item>
+      <title>Hyperuniformity on spherical surfaces</title>
+      <link>http://granulares.frlp.utn.edu.ar/es/publication/gmg-051/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://granulares.frlp.utn.edu.ar/es/publication/gmg-051/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
