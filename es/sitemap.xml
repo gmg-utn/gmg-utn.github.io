@@ -159,7 +159,7 @@
                 />
   </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/es/publication/</loc>
-    <lastmod>2021-05-17T21:29:28-03:00</lastmod>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -172,7 +172,7 @@
                 />
   </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/es/publication_types/</loc>
-    <lastmod>2021-05-17T21:29:28-03:00</lastmod>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -195,6 +195,84 @@
                 rel="alternate"
                 hreflang="es"
                 href="http://granulares.frlp.utn.edu.ar/es/publication/gmg-028/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/post/</loc>
+    <lastmod>2021-05-20T20:57:05-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/post/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/post/2021/2021-02/</loc>
+    <lastmod>2021-05-20T20:57:05-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/post/2021/2021-02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/post/2021/2021-02/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/publication-type/4/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/publication-type/4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/publication-type/4/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/author/grupo-de-materiales-granulares/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/author/grupo-de-materiales-granulares/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/author/grupo-de-materiales-granulares/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/publication/memoria-2020/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/publication/memoria-2020/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/publication/memoria-2020/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/tag/memoria-gmg/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/tag/memoria-gmg/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/tag/memoria-gmg/"
                 />
   </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/es/talk/seminarios/2021/seminario-21-05-18/</loc>
@@ -234,19 +312,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="http://granulares.frlp.utn.edu.ar/es/post/2021/2021-01/"
-                />
-  </url><url>
-    <loc>http://granulares.frlp.utn.edu.ar/es/post/</loc>
-    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://granulares.frlp.utn.edu.ar/en/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://granulares.frlp.utn.edu.ar/es/post/"
                 />
   </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/es/publication/gmg-038/</loc>
@@ -303,6 +368,16 @@
   </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/es/post/2020/2020-12-17_revista-mecanica-tecnologica-vol2/</loc>
     <lastmod>2020-12-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/post/2020/2020-12-17_revista-mecanica-tecnologica-vol2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/post/2020/2020-12-17_revista-mecanica-tecnologica-vol2/"
+                />
   </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/es/author/santiago-mosca/</loc>
     <lastmod>2020-12-17T00:00:00+00:00</lastmod>
@@ -553,6 +628,16 @@
   </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/es/talk/seminarios/2020/seminario-20-09-01/</loc>
     <lastmod>2020-09-01T14:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/talk/seminarios/2020/seminario-20-09-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/talk/seminarios/2020/seminario-20-09-01/"
+                />
   </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/es/author/ramiro-irastorza/</loc>
     <lastmod>2021-05-17T21:29:28-03:00</lastmod>
@@ -697,32 +782,6 @@
                 href="http://granulares.frlp.utn.edu.ar/es/author/j.-r.-darias/"
                 />
   </url><url>
-    <loc>http://granulares.frlp.utn.edu.ar/es/publication-type/4/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://granulares.frlp.utn.edu.ar/en/publication-type/4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://granulares.frlp.utn.edu.ar/es/publication-type/4/"
-                />
-  </url><url>
-    <loc>http://granulares.frlp.utn.edu.ar/es/author/grupo-de-materiales-granulares/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://granulares.frlp.utn.edu.ar/en/author/grupo-de-materiales-granulares/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://granulares.frlp.utn.edu.ar/es/author/grupo-de-materiales-granulares/"
-                />
-  </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/es/publication/memoria-2019/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -734,19 +793,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="http://granulares.frlp.utn.edu.ar/es/publication/memoria-2019/"
-                />
-  </url><url>
-    <loc>http://granulares.frlp.utn.edu.ar/es/tag/memoria-gmg/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://granulares.frlp.utn.edu.ar/en/tag/memoria-gmg/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://granulares.frlp.utn.edu.ar/es/tag/memoria-gmg/"
                 />
   </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/es/author/hu-zheng/</loc>
