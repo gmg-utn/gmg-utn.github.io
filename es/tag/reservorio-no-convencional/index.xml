@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reservorio no convencional | GMG</title>
+    <link>http://granulares.frlp.utn.edu.ar/es/tag/reservorio-no-convencional/</link>
+      <atom:link href="http://granulares.frlp.utn.edu.ar/es/tag/reservorio-no-convencional/index.xml" rel="self" type="application/rss+xml" />
+    <description>Reservorio no convencional</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><copyright>© 2012-2021 Grupo de Materiales Granulares</copyright><lastBuildDate>Tue, 01 Jun 2021 14:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://granulares.frlp.utn.edu.ar/media/GMG-logo.png</url>
+      <title>Reservorio no convencional</title>
+      <link>http://granulares.frlp.utn.edu.ar/es/tag/reservorio-no-convencional/</link>
+    </image>
+    
+    <item>
+      <title>Las discontinuidades mecánicas: su efecto sobre la propagación de fracturas hidráulicas</title>
+      <link>http://granulares.frlp.utn.edu.ar/es/talk/seminarios/2021/seminario-21-06-01/</link>
+      <pubDate>Tue, 01 Jun 2021 14:00:00 +0000</pubDate>
+      <guid>http://granulares.frlp.utn.edu.ar/es/talk/seminarios/2021/seminario-21-06-01/</guid>
+      <description>&lt;p&gt;La inyección de fluidos a presión en el subsuelo puede generar deslizamientos de fallas y sismicidad
+inducida como se ha observado en algunos proyectos de recuperación de hidrocarburos, almacenamiento
+de gas, captura de CO2, entre otros. Las discontinuidades mecánicas de baja escala (ej. contactos
+litológicos) pueden no ser una preocupación sísmica principal debido a su orientación con respecto a
+los esfuerzos principales y su baja conductividad hidráulica. Sin embargo, estudios recientes han
+mostrado que estas discontinuidades pueden tener efectos perjudiciales en el desarrollo de
+reservorios no convencionales de gas y petróleo (interferencias entre pozos, perdidas de integridad
+de cañerías, baja productividad de los pozos, etc.), ya que podrían deslizarse como consecuencia de
+las tensiones y las deformaciones inducidas por fracturas hidráulicas.&lt;/p&gt;
+&lt;p&gt;En esta charla se presentará una breve descripción sobre los conceptos básicos de la estimulación
+hidráulica en reservorios no convencionales, y detalles sobre la identificación, caracterización y
+el efecto que las discontinuidades mecánicas tienen sobre la propagación de las fracturas.&lt;/p&gt;
+&lt;p&gt;El Dr. Ing. &lt;strong&gt;Martín Sánchez&lt;/strong&gt; es Profesor en el Departamento de Ingeniería Mecánica de nuestra
+Facultad, y Jefe de área Fisica de Formaciones en YPF Tecnología (Y-TEC).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

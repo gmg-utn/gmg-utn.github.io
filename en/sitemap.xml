@@ -2,8 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://granulares.frlp.utn.edu.ar/en/tag/aleaciones/</loc>
+    <lastmod>2021-06-15T14:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/tag/aleaciones/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/tag/aleaciones/"
+                />
+  </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/en/authors/</loc>
-    <lastmod>2021-06-07T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-15T14:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -15,8 +28,21 @@
                 href="http://granulares.frlp.utn.edu.ar/en/authors/"
                 />
   </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/en/talk/</loc>
+    <lastmod>2021-06-15T14:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/talk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/talk/"
+                />
+  </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/en/</loc>
-    <lastmod>2021-06-07T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-15T14:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -26,6 +52,58 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://granulares.frlp.utn.edu.ar/en/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/en/author/inga.-ana-cozzarin/</loc>
+    <lastmod>2021-06-15T14:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/author/inga.-ana-cozzarin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/author/inga.-ana-cozzarin/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/en/talk/seminarios/2021/seminario-21-06-15/</loc>
+    <lastmod>2021-06-15T14:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/talk/seminarios/2021/seminario-21-06-15/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/talk/seminarios/2021/seminario-21-06-15/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/en/tag/seminario/</loc>
+    <lastmod>2021-06-15T14:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/tag/seminario/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/tag/seminario/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/en/tags/</loc>
+    <lastmod>2021-06-15T14:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/tags/"
                 />
   </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/en/post/</loc>
@@ -80,19 +158,6 @@
                 href="http://granulares.frlp.utn.edu.ar/en/author/santiago-mosca/"
                 />
   </url><url>
-    <loc>http://granulares.frlp.utn.edu.ar/en/tags/</loc>
-    <lastmod>2021-06-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://granulares.frlp.utn.edu.ar/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://granulares.frlp.utn.edu.ar/en/tags/"
-                />
-  </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/en/tag/taller/</loc>
     <lastmod>2021-06-07T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -132,17 +197,17 @@
                 href="http://granulares.frlp.utn.edu.ar/en/post/2021/2021-05/"
                 />
   </url><url>
-    <loc>http://granulares.frlp.utn.edu.ar/en/talk/</loc>
+    <loc>http://granulares.frlp.utn.edu.ar/en/tag/fractura-hidraulica/</loc>
     <lastmod>2021-06-01T14:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://granulares.frlp.utn.edu.ar/es/talk/"
+                href="http://granulares.frlp.utn.edu.ar/es/tag/fractura-hidraulica/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://granulares.frlp.utn.edu.ar/en/talk/"
+                href="http://granulares.frlp.utn.edu.ar/en/tag/fractura-hidraulica/"
                 />
   </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/en/talk/seminarios/2021/seminario-21-06-01/</loc>
@@ -171,17 +236,17 @@
                 href="http://granulares.frlp.utn.edu.ar/en/author/martin-sanchez/"
                 />
   </url><url>
-    <loc>http://granulares.frlp.utn.edu.ar/en/tag/seminario/</loc>
+    <loc>http://granulares.frlp.utn.edu.ar/en/tag/reservorio-no-convencional/</loc>
     <lastmod>2021-06-01T14:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://granulares.frlp.utn.edu.ar/es/tag/seminario/"
+                href="http://granulares.frlp.utn.edu.ar/es/tag/reservorio-no-convencional/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://granulares.frlp.utn.edu.ar/en/tag/seminario/"
+                href="http://granulares.frlp.utn.edu.ar/en/tag/reservorio-no-convencional/"
                 />
   </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/en/publication-type/2/</loc>
@@ -416,6 +481,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://granulares.frlp.utn.edu.ar/en/tag/memoria-gmg/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/en/tag/amortiguadores-granulares/</loc>
+    <lastmod>2021-05-18T14:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/tag/amortiguadores-granulares/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/tag/amortiguadores-granulares/"
                 />
   </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/en/talk/seminarios/2021/seminario-21-05-18/</loc>
@@ -1911,19 +1989,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://granulares.frlp.utn.edu.ar/en/tag/agente-de-sosten/"
-                />
-  </url><url>
-    <loc>http://granulares.frlp.utn.edu.ar/en/tag/amortiguadores-granulares/</loc>
-    <lastmod>2017-06-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://granulares.frlp.utn.edu.ar/es/tag/amortiguadores-granulares/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://granulares.frlp.utn.edu.ar/en/tag/amortiguadores-granulares/"
                 />
   </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/en/post/2017/2017-06-15_busqueda-candidato-postdoctoral/</loc>
