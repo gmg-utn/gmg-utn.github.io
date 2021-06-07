@@ -30,6 +30,16 @@
   </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/es/tag/latex/</loc>
     <lastmod>2021-06-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/tag/latex/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/tag/latex/"
+                />
   </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/es/author/lucas-basiuk/</loc>
     <lastmod>2021-06-07T00:00:00+00:00</lastmod>
@@ -85,9 +95,29 @@
   </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/es/tag/taller/</loc>
     <lastmod>2021-06-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/tag/taller/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/tag/taller/"
+                />
   </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/es/post/2021/2021-06/</loc>
     <lastmod>2021-06-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/post/2021/2021-06/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/post/2021/2021-06/"
+                />
   </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/es/post/2021/2021-05/</loc>
     <lastmod>2021-06-01T19:18:43-03:00</lastmod>

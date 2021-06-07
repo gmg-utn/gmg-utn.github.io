@@ -5,12 +5,39 @@
     <link>http://granulares.frlp.utn.edu.ar/en/</link>
       <atom:link href="http://granulares.frlp.utn.edu.ar/en/index.xml" rel="self" type="application/rss+xml" />
     <description>GMG</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2012-2021 Grupo de Materiales Granulares</copyright><lastBuildDate>Tue, 01 Jun 2021 19:18:43 -0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2012-2021 Grupo de Materiales Granulares</copyright><lastBuildDate>Mon, 07 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://granulares.frlp.utn.edu.ar/images/logo_huba578aa6b5500482f3aab5585e91b3f0_7048_300x300_fit_lanczos_2.png</url>
       <title>GMG</title>
       <link>http://granulares.frlp.utn.edu.ar/en/</link>
     </image>
+    
+    <item>
+      <title>Taller de LaTeX / Overleaf 2021</title>
+      <link>http://granulares.frlp.utn.edu.ar/en/post/2021/2021-06/</link>
+      <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://granulares.frlp.utn.edu.ar/en/post/2021/2021-06/</guid>
+      <description>&lt;p&gt;El taller, que se hará de forma virtual, comenzará el jueves 12 de Agosto y contará con seis encuentros semanales.&lt;/p&gt;
+&lt;p&gt;Esta primera edición del taller, dirigida principalmente a alumnos y alumnas de grado, tiene como objetivo
+acercar una herramienta que mejora la calidad tipográfica de los trabajos prácticos,
+informes
+finales y presentaciones a lo largo de su carrera. No obstante, el taller es abierto a cualquier
+interesado o interesada que quiera conocer o intercambiar contenido referido a LaTeX / Overleaf.&lt;/p&gt;
+&lt;h2 id=&#34;encargados-del-taller&#34;&gt;Encargados del taller:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Santiago Mosca (IFLySiB, GMG-UTN)&lt;/li&gt;
+&lt;li&gt;Lucas Osvaldo Basiuk (GMG-UTN)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Los encuentros virtuales se realizarán utilizando la plataforma Zoom, los jueves de cada semana, a partir del 12 de Agosto, de 16.00 a 17.00 hs.&lt;/p&gt;
+&lt;h2 id=&#34;contenido&#34;&gt;Contenido&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;http://granulares.frlp.utn.edu.ar/files/varios/programa_taller_LaTeX.pdf&#34;&gt;Programa&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;contacto&#34;&gt;Contacto&lt;/h2&gt;
+&lt;p&gt;Para consultar, enviar correo electrónico a:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;mailto://santiagomosca85@gmail.com&#34;&gt;Santiago Mosca&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto://lucasbasiuk.lb@gmail.com&#34;&gt;Lucas Basiuk&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     
     <item>
       <title>Seminario &#34;Ley Micaela en el sistema universitario&#34;</title>
