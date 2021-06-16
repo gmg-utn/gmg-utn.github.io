@@ -5,12 +5,30 @@
     <link>http://granulares.frlp.utn.edu.ar/es/</link>
       <atom:link href="http://granulares.frlp.utn.edu.ar/es/index.xml" rel="self" type="application/rss+xml" />
     <description>GMG</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><copyright>© 2012-2021 Grupo de Materiales Granulares</copyright><lastBuildDate>Tue, 15 Jun 2021 14:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><copyright>© 2012-2021 Grupo de Materiales Granulares</copyright><lastBuildDate>Tue, 29 Jun 2021 14:00:00 +0000</lastBuildDate>
     <image>
       <url>http://granulares.frlp.utn.edu.ar/media/GMG-logo.png</url>
       <title>GMG</title>
       <link>http://granulares.frlp.utn.edu.ar/es/</link>
     </image>
+    
+    <item>
+      <title>Fluctuaciones de densidad en un medio granular atravesando la fase de transición vítrea.</title>
+      <link>http://granulares.frlp.utn.edu.ar/es/talk/seminarios/2021/seminario-21-06-29/</link>
+      <pubDate>Tue, 29 Jun 2021 14:00:00 +0000</pubDate>
+      <guid>http://granulares.frlp.utn.edu.ar/es/talk/seminarios/2021/seminario-21-06-29/</guid>
+      <description>&lt;p&gt;Revisitando el experimento de Chicago pero variando la intensidad de la perturbación de forma
+continua, hemos mostrado que una transición de fase tipo vítrea puede observarse en el
+comportamiento de la densidad granular como función de la intensidad de la perturbación. Para
+amplitudes suficientemente altas, la densidad del sistema es independiente de la velocidad con la
+que la perturbación es modificada. A cierta intensidad crítica, la densidad del sistema se vuelve
+dependiente de la tasa de cambio de la perturbación.&lt;/p&gt;
+&lt;p&gt;La &lt;a href=&#34;http://granulares.frlp.utn.edu.ar/https://www.imperial.ac.uk/people/p.gago/&#34;&gt;&lt;strong&gt;Dra. Paula Gago&lt;/strong&gt;&lt;/a&gt; es Investigadora Asociada
+en el Departamento de Ciencias de la Tierra e Ingeniería de la Facultad de Ingeniería de la Escuela
+Imperial de Londres. Formó parte de los inicios del Grupo de Materiales Granulares, donde
+realizó investigaciones que condujeron a la obención de su Doctorado en Física (UNLP) en 2014.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>La relevancia del desarrollo de aleaciones estratégicas, con ojos de mujer</title>
@@ -110,7 +128,7 @@ Facultad, y Jefe de área Fisica de Formaciones en YPF Tecnología (Y-TEC).&lt;/
       <link>http://granulares.frlp.utn.edu.ar/es/post/2021/2021-04/</link>
       <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
       <guid>http://granulares.frlp.utn.edu.ar/es/post/2021/2021-04/</guid>
-      <description>&lt;p&gt;Se abre la inscripción al curso &amp;ldquo;Herramientas Computacionales para Científicos (HCC)&amp;rdquo;.&lt;/p&gt;
+      <description>&lt;p&gt;Se abre la inscripción al curso &amp;ldquo;Herramientas Computacionales para Científicos (HCC)&amp;rdquo; &lt;strong&gt;(Actualizado)&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Durante el segundo semestre se dictará el curso &lt;strong&gt;&amp;ldquo;Herramientas Computacionales para Científicos (HCC)&amp;quot;&lt;/strong&gt;,
 en modalidad virtual debido a las restricciones impuestas por la pandemia de COVID-19.&lt;/p&gt;
 &lt;p&gt;Este curso tiene como objetivo brindar al estudiante
@@ -163,6 +181,10 @@ comenzando el 6 de agosto, previendo su finalización la primera semana de dicie
 &lt;p&gt;La inscripción estará abierta entre el 1 y el 15 de junio, y debe realizarse
 completando el siguiente &lt;a href=&#34;https://forms.gle/ovXimkXdBc8ySBpWA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;formulario&lt;/a&gt;. El curso no está arancelado
 para estudiantes de grado, de posgrado y miembros de instituciones educativas y científicas.&lt;/p&gt;
+&lt;h3 id=&#34;actualización&#34;&gt;Actualización&lt;/h3&gt;
+&lt;p&gt;La inscripción cerró el 15 de junio. Quienes estén interesados en cursar la edición 2022 pueden registrarse en
+este &lt;a href=&#34;https://forms.gle/BqsxTe17b5rJAf4d7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;formulario&lt;/a&gt;. Los registrados serán notificados al momento de
+abrir la inscripción para la próxima edición.&lt;/p&gt;
 &lt;h2 id=&#34;contacto&#34;&gt;Contacto&lt;/h2&gt;
 &lt;p&gt;Para consultas, enviar correo electrónico a:&lt;/p&gt;
 &lt;ul&gt;

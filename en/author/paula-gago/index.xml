@@ -5,12 +5,30 @@
     <link>http://granulares.frlp.utn.edu.ar/en/author/paula-gago/</link>
       <atom:link href="http://granulares.frlp.utn.edu.ar/en/author/paula-gago/index.xml" rel="self" type="application/rss+xml" />
     <description>Paula Gago</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2012-2021 Grupo de Materiales Granulares</copyright>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2012-2021 Grupo de Materiales Granulares</copyright><lastBuildDate>Tue, 29 Jun 2021 14:00:00 +0000</lastBuildDate>
     <image>
       <url>http://granulares.frlp.utn.edu.ar/images/logo_huba578aa6b5500482f3aab5585e91b3f0_7048_300x300_fit_lanczos_2.png</url>
       <title>Paula Gago</title>
       <link>http://granulares.frlp.utn.edu.ar/en/author/paula-gago/</link>
     </image>
+    
+    <item>
+      <title>Fluctuaciones de densidad en un medio granular atravesando la fase de transición vítrea.</title>
+      <link>http://granulares.frlp.utn.edu.ar/en/talk/seminarios/2021/seminario-21-06-29/</link>
+      <pubDate>Tue, 29 Jun 2021 14:00:00 +0000</pubDate>
+      <guid>http://granulares.frlp.utn.edu.ar/en/talk/seminarios/2021/seminario-21-06-29/</guid>
+      <description>&lt;p&gt;Revisitando el experimento de Chicago pero variando la intensidad de la perturbación de forma
+continua, hemos mostrado que una transición de fase tipo vítrea puede observarse en el
+comportamiento de la densidad granular como función de la intensidad de la perturbación. Para
+amplitudes suficientemente altas, la densidad del sistema es independiente de la velocidad con la
+que la perturbación es modificada. A cierta intensidad crítica, la densidad del sistema se vuelve
+dependiente de la tasa de cambio de la perturbación.&lt;/p&gt;
+&lt;p&gt;La &lt;a href=&#34;http://granulares.frlp.utn.edu.ar/https://www.imperial.ac.uk/people/p.gago/&#34;&gt;&lt;strong&gt;Dra. Paula Gago&lt;/strong&gt;&lt;/a&gt; es Investigadora Asociada
+en el Departamento de Ciencias de la Tierra e Ingeniería de la Facultad de Ingeniería de la Escuela
+Imperial de Londres. Formó parte de los inicios del Grupo de Materiales Granulares, donde
+realizó investigaciones que condujeron a la obención de su Doctorado en Física (UNLP) en 2014.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

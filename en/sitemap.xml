@@ -2,21 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://granulares.frlp.utn.edu.ar/en/tag/aleaciones/</loc>
-    <lastmod>2021-06-15T14:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://granulares.frlp.utn.edu.ar/es/tag/aleaciones/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://granulares.frlp.utn.edu.ar/en/tag/aleaciones/"
-                />
-  </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/en/authors/</loc>
-    <lastmod>2021-06-15T14:00:00+00:00</lastmod>
+    <lastmod>2021-06-29T14:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -29,7 +16,7 @@
                 />
   </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/en/talk/</loc>
-    <lastmod>2021-06-15T14:00:00+00:00</lastmod>
+    <lastmod>2021-06-29T14:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -41,8 +28,21 @@
                 href="http://granulares.frlp.utn.edu.ar/en/talk/"
                 />
   </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/en/talk/seminarios/2021/seminario-21-06-29/</loc>
+    <lastmod>2021-06-29T14:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/talk/seminarios/2021/seminario-21-06-29/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/talk/seminarios/2021/seminario-21-06-29/"
+                />
+  </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/en/</loc>
-    <lastmod>2021-06-15T14:00:00+00:00</lastmod>
+    <lastmod>2021-06-29T14:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -52,6 +52,58 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://granulares.frlp.utn.edu.ar/en/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/en/author/paula-gago/</loc>
+    <lastmod>2021-06-29T14:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/author/paula-gago/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/author/paula-gago/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/en/tag/seminario/</loc>
+    <lastmod>2021-06-29T14:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/tag/seminario/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/tag/seminario/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/en/tags/</loc>
+    <lastmod>2021-06-29T14:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/tags/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/en/tag/aleaciones/</loc>
+    <lastmod>2021-06-15T14:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/tag/aleaciones/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/tag/aleaciones/"
                 />
   </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/en/author/inga.-ana-cozzarin/</loc>
@@ -78,32 +130,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://granulares.frlp.utn.edu.ar/en/talk/seminarios/2021/seminario-21-06-15/"
-                />
-  </url><url>
-    <loc>http://granulares.frlp.utn.edu.ar/en/tag/seminario/</loc>
-    <lastmod>2021-06-15T14:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://granulares.frlp.utn.edu.ar/es/tag/seminario/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://granulares.frlp.utn.edu.ar/en/tag/seminario/"
-                />
-  </url><url>
-    <loc>http://granulares.frlp.utn.edu.ar/en/tags/</loc>
-    <lastmod>2021-06-15T14:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://granulares.frlp.utn.edu.ar/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://granulares.frlp.utn.edu.ar/en/tags/"
                 />
   </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/en/post/</loc>
@@ -3223,18 +3249,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://granulares.frlp.utn.edu.ar/en/author/nicolas-arce/"
-                />
-  </url><url>
-    <loc>http://granulares.frlp.utn.edu.ar/en/author/paula-gago/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://granulares.frlp.utn.edu.ar/es/author/paula-gago/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://granulares.frlp.utn.edu.ar/en/author/paula-gago/"
                 />
   </url>
 </urlset>
