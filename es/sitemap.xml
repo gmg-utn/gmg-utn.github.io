@@ -93,6 +93,58 @@
                 href="http://granulares.frlp.utn.edu.ar/es/tags/"
                 />
   </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/post/2021/2021-07/</loc>
+    <lastmod>2021-06-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/post/2021/2021-07/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/post/2021/2021-07/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/tag/ingenieria/</loc>
+    <lastmod>2021-06-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/tag/ingenieria/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/tag/ingenieria/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/tag/mujer/</loc>
+    <lastmod>2021-06-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/tag/mujer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/tag/mujer/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/post/</loc>
+    <lastmod>2021-06-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/post/"
+                />
+  </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/es/tag/aleaciones/</loc>
     <lastmod>2021-06-15T14:00:00+00:00</lastmod>
     <xhtml:link
@@ -156,19 +208,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="http://granulares.frlp.utn.edu.ar/es/author/lucas-basiuk/"
-                />
-  </url><url>
-    <loc>http://granulares.frlp.utn.edu.ar/es/post/</loc>
-    <lastmod>2021-06-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://granulares.frlp.utn.edu.ar/en/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://granulares.frlp.utn.edu.ar/es/post/"
                 />
   </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/es/author/santiago-mosca/</loc>
