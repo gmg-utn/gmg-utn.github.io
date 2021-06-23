@@ -5,12 +5,28 @@
     <link>http://granulares.frlp.utn.edu.ar/en/publication-type/1/</link>
       <atom:link href="http://granulares.frlp.utn.edu.ar/en/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2012-2021 Grupo de Materiales Granulares</copyright><lastBuildDate>Thu, 24 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2012-2021 Grupo de Materiales Granulares</copyright><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://granulares.frlp.utn.edu.ar/images/logo_huba578aa6b5500482f3aab5585e91b3f0_7048_300x300_fit_lanczos_2.png</url>
       <title>1</title>
       <link>http://granulares.frlp.utn.edu.ar/en/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Electrical conductivity of trabecular bone: A preliminar simulation study</title>
+      <link>http://granulares.frlp.utn.edu.ar/en/publication/gmg-042/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://granulares.frlp.utn.edu.ar/en/publication/gmg-042/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-assembly of self-propelled magnetic grains</title>
+      <link>http://granulares.frlp.utn.edu.ar/en/publication/gmg-041/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://granulares.frlp.utn.edu.ar/en/publication/gmg-041/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Vibration Driven Vehicles Flowing Through Bottlenecks</title>

@@ -5,12 +5,20 @@
     <link>http://granulares.frlp.utn.edu.ar/es/author/ramiro-irastorza/</link>
       <atom:link href="http://granulares.frlp.utn.edu.ar/es/author/ramiro-irastorza/index.xml" rel="self" type="application/rss+xml" />
     <description>Ramiro Irastorza</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><copyright>© 2012-2021 Grupo de Materiales Granulares</copyright><lastBuildDate>Thu, 27 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><copyright>© 2012-2021 Grupo de Materiales Granulares</copyright><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://granulares.frlp.utn.edu.ar/media/GMG-logo.png</url>
       <title>Ramiro Irastorza</title>
       <link>http://granulares.frlp.utn.edu.ar/es/author/ramiro-irastorza/</link>
     </image>
+    
+    <item>
+      <title>Electrical conductivity of trabecular bone: A preliminar simulation study</title>
+      <link>http://granulares.frlp.utn.edu.ar/es/publication/gmg-042/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://granulares.frlp.utn.edu.ar/es/publication/gmg-042/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Edición 2021 del curso HCC</title>
@@ -84,50 +92,18 @@ abrir la inscripción para la próxima edición.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Semillas y propiedades dieléctricas en microondas. Potenciales aplicaciones en la agroindustria</title>
-      <link>http://granulares.frlp.utn.edu.ar/es/talk/seminarios/2020/seminario-20-08-18/</link>
-      <pubDate>Tue, 18 Aug 2020 14:00:00 +0000</pubDate>
-      <guid>http://granulares.frlp.utn.edu.ar/es/talk/seminarios/2020/seminario-20-08-18/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Differences in applied electrical power between full thorax models and limited-domain models for RF cardiac ablation</title>
+      <title>Self-assembly of self-propelled magnetic grains</title>
       <link>http://granulares.frlp.utn.edu.ar/es/publication/gmg-041/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>http://granulares.frlp.utn.edu.ar/es/publication/gmg-041/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Microwave tomography with phaseless data on the calcaneus by means of artificial neural networks</title>
-      <link>http://granulares.frlp.utn.edu.ar/es/publication/gmg-049/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>http://granulares.frlp.utn.edu.ar/es/publication/gmg-049/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sensitivity analysis on imaging the calcaneus using microwaves</title>
-      <link>http://granulares.frlp.utn.edu.ar/es/publication/gmg-048/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://granulares.frlp.utn.edu.ar/es/publication/gmg-048/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Phaseless Microwave Imaging Of Dielectric Cylinders: An Artificial Neural Networks-Based Approach</title>
-      <link>http://granulares.frlp.utn.edu.ar/es/publication/gmg-050/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://granulares.frlp.utn.edu.ar/es/publication/gmg-050/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Uncertainties and temperature correction in molecular dynamic simulations of dielectric properties of condensed polar systems</title>
-      <link>http://granulares.frlp.utn.edu.ar/es/publication/gmg-047/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://granulares.frlp.utn.edu.ar/es/publication/gmg-047/</guid>
+      <title>Semillas y propiedades dieléctricas en microondas. Potenciales aplicaciones en la agroindustria</title>
+      <link>http://granulares.frlp.utn.edu.ar/es/talk/seminarios/2020/seminario-20-08-18/</link>
+      <pubDate>Tue, 18 Aug 2020 14:00:00 +0000</pubDate>
+      <guid>http://granulares.frlp.utn.edu.ar/es/talk/seminarios/2020/seminario-20-08-18/</guid>
       <description></description>
     </item>
     

@@ -5,20 +5,12 @@
     <link>http://granulares.frlp.utn.edu.ar/es/publication-type/2/</link>
       <atom:link href="http://granulares.frlp.utn.edu.ar/es/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><copyright>© 2012-2021 Grupo de Materiales Granulares</copyright><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><copyright>© 2012-2021 Grupo de Materiales Granulares</copyright><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://granulares.frlp.utn.edu.ar/media/GMG-logo.png</url>
       <title>2</title>
       <link>http://granulares.frlp.utn.edu.ar/es/publication-type/2/</link>
     </image>
-    
-    <item>
-      <title>Stability and conductivity of proppant packs during flowback in unconventional reservoirs: A CFD–DEM simulation study</title>
-      <link>http://granulares.frlp.utn.edu.ar/es/publication/gmg-028/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://granulares.frlp.utn.edu.ar/es/publication/gmg-028/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Enhancement of the flow of vibrated grains through narrow apertures by addition of small particles</title>
@@ -29,10 +21,10 @@
     </item>
     
     <item>
-      <title>Molecular dynamics simulation of the heart type fatty acid binding protein in a crystal environment</title>
-      <link>http://granulares.frlp.utn.edu.ar/es/publication/gmg-044/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>http://granulares.frlp.utn.edu.ar/es/publication/gmg-044/</guid>
+      <title>Stability and conductivity of proppant packs during flowback in unconventional reservoirs: A CFD–DEM simulation study</title>
+      <link>http://granulares.frlp.utn.edu.ar/es/publication/gmg-037/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://granulares.frlp.utn.edu.ar/es/publication/gmg-037/</guid>
       <description></description>
     </item>
     
@@ -53,50 +45,10 @@
     </item>
     
     <item>
-      <title>Correlation functions in mixtures with energetically favoured nearest neighbours of different kind: a size-asymmetric case</title>
-      <link>http://granulares.frlp.utn.edu.ar/es/publication/gmg-046/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://granulares.frlp.utn.edu.ar/es/publication/gmg-046/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Differences in applied electrical power between full thorax models and limited-domain models for RF cardiac ablation</title>
-      <link>http://granulares.frlp.utn.edu.ar/es/publication/gmg-041/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://granulares.frlp.utn.edu.ar/es/publication/gmg-041/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Effect of degradation products of iron-bioresorbable implants on the physiological behavior of macrophages in vitro</title>
-      <link>http://granulares.frlp.utn.edu.ar/es/publication/gmg-043/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://granulares.frlp.utn.edu.ar/es/publication/gmg-043/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Intruder in a two-dimensional granular system: Effects of dynamic and static basal friction on stick-slip and clogging dynamics</title>
       <link>http://granulares.frlp.utn.edu.ar/es/publication/gmg-039/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>http://granulares.frlp.utn.edu.ar/es/publication/gmg-039/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The hopper angle role on the velocity and solid-fraction profiles at the outlet of silos</title>
-      <link>http://granulares.frlp.utn.edu.ar/es/publication/gmg-042/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://granulares.frlp.utn.edu.ar/es/publication/gmg-042/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Microwave tomography with phaseless data on the calcaneus by means of artificial neural networks</title>
-      <link>http://granulares.frlp.utn.edu.ar/es/publication/gmg-049/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>http://granulares.frlp.utn.edu.ar/es/publication/gmg-049/</guid>
       <description></description>
     </item>
     
@@ -117,50 +69,10 @@
     </item>
     
     <item>
-      <title>Sensitivity analysis on imaging the calcaneus using microwaves</title>
-      <link>http://granulares.frlp.utn.edu.ar/es/publication/gmg-048/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://granulares.frlp.utn.edu.ar/es/publication/gmg-048/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hyperuniformity on spherical surfaces</title>
-      <link>http://granulares.frlp.utn.edu.ar/es/publication/gmg-051/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://granulares.frlp.utn.edu.ar/es/publication/gmg-051/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Phaseless Microwave Imaging Of Dielectric Cylinders: An Artificial Neural Networks-Based Approach</title>
-      <link>http://granulares.frlp.utn.edu.ar/es/publication/gmg-050/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://granulares.frlp.utn.edu.ar/es/publication/gmg-050/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Proppant transport in a scaled vertical planar fracture: Vorticity and dune placement</title>
       <link>http://granulares.frlp.utn.edu.ar/es/publication/gmg-035/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>http://granulares.frlp.utn.edu.ar/es/publication/gmg-035/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Study of nanoconfined mixtures of decane and water: Structure and dynamic</title>
-      <link>http://granulares.frlp.utn.edu.ar/es/publication/gmg-052/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://granulares.frlp.utn.edu.ar/es/publication/gmg-052/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Uncertainties and temperature correction in molecular dynamic simulations of dielectric properties of condensed polar systems</title>
-      <link>http://granulares.frlp.utn.edu.ar/es/publication/gmg-047/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://granulares.frlp.utn.edu.ar/es/publication/gmg-047/</guid>
       <description></description>
     </item>
     
