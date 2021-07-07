@@ -5,12 +5,36 @@
     <link>http://granulares.frlp.utn.edu.ar/en/tag/seminario/</link>
       <atom:link href="http://granulares.frlp.utn.edu.ar/en/tag/seminario/index.xml" rel="self" type="application/rss+xml" />
     <description>Seminario</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2012-2021 Grupo de Materiales Granulares</copyright><lastBuildDate>Tue, 29 Jun 2021 14:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2012-2021 Grupo de Materiales Granulares</copyright><lastBuildDate>Tue, 13 Jul 2021 14:00:00 +0000</lastBuildDate>
     <image>
       <url>http://granulares.frlp.utn.edu.ar/images/logo_huba578aa6b5500482f3aab5585e91b3f0_7048_300x300_fit_lanczos_2.png</url>
       <title>Seminario</title>
       <link>http://granulares.frlp.utn.edu.ar/en/tag/seminario/</link>
     </image>
+    
+    <item>
+      <title>Fabricación de autopartes plásticas a través del molde por inyección</title>
+      <link>http://granulares.frlp.utn.edu.ar/en/talk/seminarios/2021/seminario-21-07-13/</link>
+      <pubDate>Tue, 13 Jul 2021 14:00:00 +0000</pubDate>
+      <guid>http://granulares.frlp.utn.edu.ar/en/talk/seminarios/2021/seminario-21-07-13/</guid>
+      <description>&lt;p&gt;En este seminario abordaré temas abocados a la producción de autopartes plásticas y algunas
+particularidades de su proceso productivo, recorriendo los siguientes tópicos:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Breve introducción a los polímeros de ingeniería más empleados en la industria automotriz.&lt;/li&gt;
+&lt;li&gt;Máquina inyectora y molde de inyección.&lt;/li&gt;
+&lt;li&gt;Proceso de moldeo por inyección de materiales termoplásticos.&lt;/li&gt;
+&lt;li&gt;Cómo es el desarrollo de un proyecto de ingeniería de autopartes plásticas, desde la licitación
+hasta la vida serie.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;También voy a hablar de decoración de piezas plásticas, pintura, cromado, hot stamping, hidrografía,
+serigrafía y tampografiado; máquinas y dispositivos necesarios para procesos de ensamble de los
+conjuntos como paneles de instrumento o paragolpes; soldadura por placa caliente, ultrasonido, y pin
+caliente.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/marcelo-gabriel-mart%C3%ADn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Marcelo Martín&lt;/strong&gt;&lt;/a&gt; se graduó como
+Ingeniero Mecánico en UTN FRLP, y actualmente es &lt;em&gt;Coordinador de Technical Costing &amp;amp; Process
+Analysis&lt;/em&gt; en &lt;a href=&#34;http://www.acozzuol.com.ar/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Industria del Plástico y Metalúrgica Albano Cozzuol S.A.&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Fluctuaciones de densidad en un medio granular atravesando la fase de transición vítrea</title>
