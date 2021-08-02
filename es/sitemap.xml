@@ -2,8 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/talk/seminarios/2021/seminario-21-08-03/</loc>
+    <lastmod>2021-08-03T14:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/talk/seminarios/2021/seminario-21-08-03/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/talk/seminarios/2021/seminario-21-08-03/"
+                />
+  </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/es/authors/</loc>
-    <lastmod>2021-07-13T14:00:00+00:00</lastmod>
+    <lastmod>2021-08-03T14:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,7 +29,7 @@
                 />
   </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/es/talk/</loc>
-    <lastmod>2021-07-13T14:00:00+00:00</lastmod>
+    <lastmod>2021-08-03T14:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -26,6 +39,58 @@
                 rel="alternate"
                 hreflang="es"
                 href="http://granulares.frlp.utn.edu.ar/es/talk/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/</loc>
+    <lastmod>2021-08-03T14:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/author/lucas-basiuk/</loc>
+    <lastmod>2021-08-03T14:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/author/lucas-basiuk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/author/lucas-basiuk/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/tag/seminario/</loc>
+    <lastmod>2021-08-03T14:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/tag/seminario/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/tag/seminario/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/es/tags/</loc>
+    <lastmod>2021-08-03T14:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/tags/"
                 />
   </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/es/talk/seminarios/2021/seminario-21-07-13/</loc>
@@ -41,19 +106,6 @@
                 href="http://granulares.frlp.utn.edu.ar/es/talk/seminarios/2021/seminario-21-07-13/"
                 />
   </url><url>
-    <loc>http://granulares.frlp.utn.edu.ar/es/</loc>
-    <lastmod>2021-07-13T14:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://granulares.frlp.utn.edu.ar/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://granulares.frlp.utn.edu.ar/es/"
-                />
-  </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/es/author/ing.-marcelo-martin/</loc>
     <lastmod>2021-07-13T14:00:00+00:00</lastmod>
     <xhtml:link
@@ -65,32 +117,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="http://granulares.frlp.utn.edu.ar/es/author/ing.-marcelo-martin/"
-                />
-  </url><url>
-    <loc>http://granulares.frlp.utn.edu.ar/es/tag/seminario/</loc>
-    <lastmod>2021-07-13T14:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://granulares.frlp.utn.edu.ar/en/tag/seminario/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://granulares.frlp.utn.edu.ar/es/tag/seminario/"
-                />
-  </url><url>
-    <loc>http://granulares.frlp.utn.edu.ar/es/tags/</loc>
-    <lastmod>2021-07-13T14:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://granulares.frlp.utn.edu.ar/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://granulares.frlp.utn.edu.ar/es/tags/"
                 />
   </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/es/post/2021/2021-08/</loc>
@@ -117,19 +143,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="http://granulares.frlp.utn.edu.ar/es/tag/fisica/"
-                />
-  </url><url>
-    <loc>http://granulares.frlp.utn.edu.ar/es/author/lucas-basiuk/</loc>
-    <lastmod>2021-07-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://granulares.frlp.utn.edu.ar/en/author/lucas-basiuk/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://granulares.frlp.utn.edu.ar/es/author/lucas-basiuk/"
                 />
   </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/es/post/</loc>

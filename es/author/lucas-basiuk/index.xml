@@ -5,12 +5,30 @@
     <link>http://granulares.frlp.utn.edu.ar/es/author/lucas-basiuk/</link>
       <atom:link href="http://granulares.frlp.utn.edu.ar/es/author/lucas-basiuk/index.xml" rel="self" type="application/rss+xml" />
     <description>Lucas Basiuk</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><copyright>© 2012-2021 Grupo de Materiales Granulares</copyright><lastBuildDate>Mon, 05 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><copyright>© 2012-2021 Grupo de Materiales Granulares</copyright><lastBuildDate>Tue, 03 Aug 2021 14:00:00 +0000</lastBuildDate>
     <image>
       <url>http://granulares.frlp.utn.edu.ar/media/GMG-logo.png</url>
       <title>Lucas Basiuk</title>
       <link>http://granulares.frlp.utn.edu.ar/es/author/lucas-basiuk/</link>
     </image>
+    
+    <item>
+      <title>Algoritmos genéticos en ingeniería</title>
+      <link>http://granulares.frlp.utn.edu.ar/es/talk/seminarios/2021/seminario-21-08-03/</link>
+      <pubDate>Tue, 03 Aug 2021 14:00:00 +0000</pubDate>
+      <guid>http://granulares.frlp.utn.edu.ar/es/talk/seminarios/2021/seminario-21-08-03/</guid>
+      <description>&lt;p&gt;El propósito de esta charla es realizar una breve introducción a una metodología de trabajo
+orientada a la búsqueda de soluciones, partiendo desde su concepción como un modelo biológico hasta
+su implementación en ingeniería a través de herramientas informáticas, lo que trae consigo el
+desafío de incorporar conceptos de programación para el planteo correcto de nuestro problema a
+resolver.&lt;/p&gt;
+&lt;p&gt;La idea no es aburrir con &lt;em&gt;scripts&lt;/em&gt;; más bien, que sea una introducción conceptual para incorporar
+esta herramienta.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://granulares.frlp.utn.edu.ar/es/author/lucas-basiuk&#34;&gt;&lt;strong&gt;Lucas Basiuk&lt;/strong&gt;&lt;/a&gt; es Ingeniero Mecánico graduado de UTN FRLP. Actualmente
+está realizando el Doctorado en Ingeniería dictado en la misma Facultad. Su tesis se titula &lt;strong&gt;Diseño
+computacional de matrices para ingeniería de tejidos optimazadas de manera estocástica&lt;/strong&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Asistimos a la TREFEMAC 2021</title>
