@@ -1,13 +1,39 @@
 BEGIN:VCALENDAR
+PRODID:-//zoom.us//iCalendar Event//EN
 VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+CLASS:PUBLIC
+BEGIN:VTIMEZONE
+TZID:America/Argentina/Buenos_Aires
+LAST-MODIFIED:20201011T015911Z
+TZURL:http://tzurl.org/zoneinfo-outlook/America/Argentina/Buenos_Aires
+X-LIC-LOCATION:America/Argentina/Buenos_Aires
+BEGIN:STANDARD
+TZNAME:-03
+TZOFFSETFROM:-0300
+TZOFFSETTO:-0300
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
 BEGIN:VEVENT
-CREATED:20210811T163805Z
-DESCRIPTION:Lucas Basiuk is inviting you to a scheduled Zoom meeting.\n\nTopic: Taller de LaTex\nTime: This is a recurring meeting Meet anytime\n\nJoin Zoom Meeting\nhttps://utn.zoom.us/j/6696980393\n\nMeeting ID: 669 698 0393\nOne tap mobile\n+543434145986\,\,6696980393# Argentina\n+541120400447\,\,6696980393# Argentina\n\nDial by your location\n        +54 343 414 5986 Argentina\n        +54 112 040 0447 Argentina\n        +54 115 983 6950 Argentina\n        +54 341 512 2188 Argentina\nMeeting ID: 669 698 0393\nFind your local number: https://utn.zoom.us/u/kcu5ZmzYpP\n\nJoin by Skype for Business\nhttps://utn.zoom.us/skype/6696980393\n\n
-DTEND;TZID=America/Argentina/Buenos_Aires:20210812T173000
+DTSTAMP:20210811T170917Z
 DTSTART;TZID=America/Argentina/Buenos_Aires:20210812T160000
-LOCATION:https://utn.zoom.us/j/6696980393
-SUMMARY;LANGUAGE=us-EN:Taller de LaTex
-UID:{542bba9c-a57f-4cbd-be9a-d4f2aea9351d}
+DTEND;TZID=America/Argentina/Buenos_Aires:20210812T173000
+SUMMARY:Taller de LaTex
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20210916T203000;INTERVAL=1;BYDAY=TH
+UID:ZOOM87467279692
+TZID:America/Argentina/Buenos_Aires
+DESCRIPTION:Lucas Basiuk le está invitando a una reunión de Zoom programa
+ da.\n\nUnirse a la reunión Zoom\nhttps://utn.zoom.us/j/87467279692\n\nID
+  de reunión: 874 6727 9692\nMóvil con un toque\n+541120400447\,\,8746727
+ 9692# Argentina\n+541159836950\,\,87467279692# Argentina\n\nMarcar según
+  su ubicación\n        +54 112 040 0447 Argentina\n        +54 115 983 6
+ 950 Argentina\n        +54 341 512 2188 Argentina\n        +54 343 414 5
+ 986 Argentina\nID de reunión: 874 6727 9692\nEncuentre su número local: 
+ https://utn.zoom.us/u/k0Ga4no1z\n\nUnirse mediante Skype Empresarial\nht
+ tps://utn.zoom.us/skype/87467279692\n
+LOCATION:https://utn.zoom.us/j/87467279692
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
