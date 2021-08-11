@@ -2,6 +2,123 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://granulares.frlp.utn.edu.ar/en/authors/</loc>
+    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/authors/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/en/</loc>
+    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/en/post/</loc>
+    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/post/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/en/tag/latex/</loc>
+    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/tag/latex/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/tag/latex/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/en/author/lucas-basiuk/</loc>
+    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/author/lucas-basiuk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/author/lucas-basiuk/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/en/author/santiago-mosca/</loc>
+    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/author/santiago-mosca/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/author/santiago-mosca/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/en/tags/</loc>
+    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/tags/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/en/tag/taller/</loc>
+    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/tag/taller/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/tag/taller/"
+                />
+  </url><url>
+    <loc>http://granulares.frlp.utn.edu.ar/en/post/2021/2021-06/</loc>
+    <lastmod>2021-08-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://granulares.frlp.utn.edu.ar/es/post/2021/2021-06/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://granulares.frlp.utn.edu.ar/en/post/2021/2021-06/"
+                />
+  </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/en/talk/seminarios/2021/seminario-21-08-03/</loc>
     <lastmod>2021-08-03T14:00:00+00:00</lastmod>
     <xhtml:link
@@ -13,19 +130,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://granulares.frlp.utn.edu.ar/en/talk/seminarios/2021/seminario-21-08-03/"
-                />
-  </url><url>
-    <loc>http://granulares.frlp.utn.edu.ar/en/authors/</loc>
-    <lastmod>2021-08-03T14:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://granulares.frlp.utn.edu.ar/es/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://granulares.frlp.utn.edu.ar/en/authors/"
                 />
   </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/en/talk/</loc>
@@ -41,32 +145,6 @@
                 href="http://granulares.frlp.utn.edu.ar/en/talk/"
                 />
   </url><url>
-    <loc>http://granulares.frlp.utn.edu.ar/en/</loc>
-    <lastmod>2021-08-03T14:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://granulares.frlp.utn.edu.ar/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://granulares.frlp.utn.edu.ar/en/"
-                />
-  </url><url>
-    <loc>http://granulares.frlp.utn.edu.ar/en/author/lucas-basiuk/</loc>
-    <lastmod>2021-08-03T14:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://granulares.frlp.utn.edu.ar/es/author/lucas-basiuk/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://granulares.frlp.utn.edu.ar/en/author/lucas-basiuk/"
-                />
-  </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/en/tag/seminario/</loc>
     <lastmod>2021-08-03T14:00:00+00:00</lastmod>
     <xhtml:link
@@ -78,19 +156,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://granulares.frlp.utn.edu.ar/en/tag/seminario/"
-                />
-  </url><url>
-    <loc>http://granulares.frlp.utn.edu.ar/en/tags/</loc>
-    <lastmod>2021-08-03T14:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://granulares.frlp.utn.edu.ar/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://granulares.frlp.utn.edu.ar/en/tags/"
                 />
   </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/en/talk/seminarios/2021/seminario-21-07-13/</loc>
@@ -143,19 +208,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://granulares.frlp.utn.edu.ar/en/tag/fisica/"
-                />
-  </url><url>
-    <loc>http://granulares.frlp.utn.edu.ar/en/post/</loc>
-    <lastmod>2021-07-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://granulares.frlp.utn.edu.ar/es/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://granulares.frlp.utn.edu.ar/en/post/"
                 />
   </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/en/tag/trefemac/</loc>
@@ -273,58 +325,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://granulares.frlp.utn.edu.ar/en/talk/seminarios/2021/seminario-21-06-15/"
-                />
-  </url><url>
-    <loc>http://granulares.frlp.utn.edu.ar/en/tag/latex/</loc>
-    <lastmod>2021-06-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://granulares.frlp.utn.edu.ar/es/tag/latex/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://granulares.frlp.utn.edu.ar/en/tag/latex/"
-                />
-  </url><url>
-    <loc>http://granulares.frlp.utn.edu.ar/en/author/santiago-mosca/</loc>
-    <lastmod>2021-06-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://granulares.frlp.utn.edu.ar/es/author/santiago-mosca/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://granulares.frlp.utn.edu.ar/en/author/santiago-mosca/"
-                />
-  </url><url>
-    <loc>http://granulares.frlp.utn.edu.ar/en/tag/taller/</loc>
-    <lastmod>2021-06-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://granulares.frlp.utn.edu.ar/es/tag/taller/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://granulares.frlp.utn.edu.ar/en/tag/taller/"
-                />
-  </url><url>
-    <loc>http://granulares.frlp.utn.edu.ar/en/post/2021/2021-06/</loc>
-    <lastmod>2021-06-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://granulares.frlp.utn.edu.ar/es/post/2021/2021-06/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://granulares.frlp.utn.edu.ar/en/post/2021/2021-06/"
                 />
   </url><url>
     <loc>http://granulares.frlp.utn.edu.ar/en/post/2021/2021-05/</loc>
